@@ -1,0 +1,153 @@
+.year {
+  padding: 0 70px;
+  width: 30%;
+}
+
+.month {
+  //padding-right: 50px;
+  width: 30%;
+  left: 150px;
+}
+
+.utility {
+  width: 30%;
+  /* left: 150px; */
+}
+
+.owner {
+  padding: 0 100px;
+}
+
+.units {
+  padding-right: 50px;
+  width: 50%;
+  left: 150px;
+}
+
+.usage {
+  width: 80%;
+  background: black;
+  color: white !important;
+  float: none !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  border-radius: 15px;
+  font-size: 40px;
+}
+
+.usage strong, .usage span {
+  margin-right: 200px;
+}
+
+#reloadButton {
+  font-family: 'Acme', sans-serif;
+  overflow: visible;
+  float: right;
+  margin-right: 20px;
+  margin-top: 63px;
+  width: 74px;
+  height: 32px;
+  font-size: 20px;
+}
+
+#undoButton {
+  position: fixed;
+	height: 50px;
+	width: 50px;
+	background: url('images/undo.png');
+	float: right;
+	right: 28px;
+	margin-top: 10px;
+}
+
+#holder>div {
+  clear:both;
+  //display: inline-flex;
+}
+
+.pie {
+  margin-left:30px;
+}
+
+.pie-slice-group {
+  -ms-transform: translate(25px, 0px);
+  -webkit-transform: translate(25px, 0px);
+  transform: translate(25px, 0px);
+}
+
+.pie-label-group {
+  -transform: translate(50px, 0px);
+  -webkit-transform: translate(50px, 0px);
+  transform: translate(50px, 0px);
+}
+
+.time g.axis.x {
+
+}
+
+.break {
+	height: 40px;
+	width: 100%;
+	clear:both;
+}
+
+body {
+	background: #eeeeee !important;
+}
+
+#hideTableSearch {
+	font-family: 'Acme', sans-serif;
+	overflow: visible;
+	float: right;
+	margin-right: 20px;
+}
+
+.searchHolder {
+	padding: 10px 30px;
+}
+
+button:hover,
+button:focus {
+    background: black;
+	color: white;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.99);
+}
+
+h2 {
+	font-family: 'Acme', sans-serif;
+	padding: 10px 17px;
+}
+
+.dc-data-count, .dc-chart {
+	font-family: 'Acme', sans-serif;
+}
+
+.dc-text-filter-input {
+    padding: 6px 10px 7px 10px;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 400;
+    color: #377D6A;
+    background: white;
+    border: none;
+    outline: none;
+    color: #000000;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 4px;
+    text-indent: 60px;
+    transition: all .3s ease-in-out;
+    position: relative;
+    font-size: 13px;
+}
+
+.dc-text-filter-input:focus {
+	text-indent: 12px;
+}

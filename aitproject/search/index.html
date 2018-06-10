@@ -1,0 +1,91 @@
+<html>
+<head>
+  <link rel="icon" href="../files/favicon.png">
+  <title>Search</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF8">
+  <link type="text/css" href="../css/dc.css" rel="stylesheet"/>
+  <link type="text/css" href="../css/searchStyle.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="../css/bootstrap.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Acme|Fira+Sans+Condensed|Fjalla+One" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../css/all.css">
+</head>
+<body>
+	<header> 
+		<div id="menu">
+			<a href="../">Home</a><br />
+			<a href="../user">User</a><br />
+			<a href="../pages">OpenData</a><br />
+			<a>Search</a>
+		</div>
+	</header>
+	<div id="demo3">
+		<div class="search1"></div>
+		<div class="searchTable">
+			<table class="table dc-data-grid">
+				<thead>
+					<tr class="header">
+						<th>No</th>
+						<th>Name</th>
+						<th>Link</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
+	</div>
+	<footer> 
+		<p>by Amir</p>
+	</footer>
+	<script type="text/javascript" src="../js/d3test.js"></script>
+	<script type="text/javascript" src="../js/crossfiltertest.js"></script>
+	<script type="text/javascript" src="../js/dctest.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/bootstrap.js"></script>
+	<script type="text/javascript">
+		dataP = [{'name': 'Analysis Neighborhoods', 'link': 'AnalysisNeighborhoods'},
+				 {'name': 'SFMTA Bikeway Network Point Features', 'link': 'BikewayNetworkPointFeatures'},
+				 {'name': 'Mobile Food Schedule', 'link': 'MobileFoodSchedule'},
+				 {'name': 'SFO Airport Monthly Utility Consumption for Natural Gas, Water, and Electricity', 'link': 'MonthlyUtilityConsumption'},
+				 {'name': 'Speed Limits', 'link': 'SpeedLimits'},
+				 {'name': 'Utility Excavation Permits', 'link': 'UtilityExcavationPermits'}];
+		search1 = dc.textFilterWidget('#demo3 .search1');
+		var xf = crossfilter(dataP);
+		var all = xf.groupAll();
+		var nameDim = xf.dimension(function(d) {
+			return d['name'];
+		});
+		$(".searchTable").hide();
+        search1
+			.dimension(nameDim)
+			.placeHolder('Search');
+		
+		var i = 0;
+        dc.dataTable('.dc-data-grid')
+			.dimension(nameDim)
+			.group(function (d) {
+			return '';
+			})
+			.size(20)
+			.columns([
+			function (d) {
+			  i = i + 1;
+			  return i;
+			},
+			function (d) {
+			  return d['name'];
+			}, function (d) {
+			  return '<a href="../pages/'+d['link']+'">Link</a>';
+			}])
+			.on('renderlet', function (c) {
+			  i = 0;
+			});
+		
+		dc.renderAll();
+		
+		$(document).on("focus","input",function(e){
+			$(".searchTable").show();
+		});
+
+		
+	</script>
+
+</body>

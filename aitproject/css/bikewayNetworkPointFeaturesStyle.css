@@ -1,0 +1,127 @@
+.leaflet-container {
+	border-radius: 16px;
+}
+
+strong {
+  padding: 5px;
+}
+
+.year {
+  padding: 35px;
+}
+
+.map {
+  padding: 35px;
+}
+
+
+#undoButton {
+  position: fixed;
+	height: 50px;
+	width: 50px;
+	background: url('images/undo.png');
+	float: right;
+	right: 28px;
+	margin-top: 10px;
+}
+
+#holder>div {
+  clear:both;
+  //display: inline-flex;
+}
+
+.pie {
+  margin-left:30px;
+}
+
+.pie-slice-group {
+  -ms-transform: translate(50px, 0px);
+  -webkit-transform: translate(50px, 0px);
+  transform: translate(50px, 0px);
+}
+
+.pie-label-group {
+  -transform: translate(50px, 0px);
+  -webkit-transform: translate(50px, 0px);
+  transform: translate(50px, 0px);
+}
+
+.time g.axis.x {
+
+}
+
+.break {
+  height: 10px;
+	width: 100%;
+	clear:both;
+}
+
+body {
+	background: #eeeeee !important;
+}
+#reloadButton {
+  font-family: 'Acme', sans-serif;
+  overflow: visible;
+  float: right;
+  margin-right: 20px;
+  margin-top: 63px;
+  width: 74px;
+  height: 32px;
+  font-size: 20px;
+}
+
+#hideTableSearch {
+	font-family: 'Acme', sans-serif;
+	overflow: visible;
+	float: right;
+	margin-right: 20px;
+}
+
+.searchHolder {
+	padding: 10px 30px;
+}
+
+button:hover,
+button:focus {
+    background: black;
+	color: white;
+}
+
+button:focus {
+    outline: 1px solid #fff;
+    outline-offset: -4px;
+}
+
+button:active {
+    transform: scale(0.99);
+}
+
+h2 {
+	font-family: 'Acme', sans-serif;
+	padding: 10px 17px;
+}
+
+.dc-data-count, .dc-chart {
+	font-family: 'Acme', sans-serif;
+}
+
+.dc-text-filter-input {
+    padding: 6px 10px 7px 10px;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 400;
+    color: #377D6A;
+    background: white;
+    border: none;
+    outline: none;
+    color: #000000;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 4px;
+    text-indent: 60px;
+    transition: all .3s ease-in-out;
+    position: relative;
+    font-size: 13px;
+}
+
+.dc-text-filter-input:focus {
+	text-indent: 12px;
+}

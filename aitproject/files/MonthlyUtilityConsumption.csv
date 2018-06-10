@@ -1,0 +1,601 @@
+Year,Month Number,Month,Utility,Owner,Units,Usage
+2013,1,Jan,Electricity,Commission,kWh,12512774
+2013,2,Feb,Electricity,Commission,kWh,12679814
+2013,3,Mar,Electricity,Commission,kWh,13342930
+2013,4,Apr,Electricity,Commission,kWh,13494324
+2013,5,May,Electricity,Commission,kWh,14071535
+2013,6,Jun,Electricity,Commission,kWh,14001517
+2013,7,Jul,Electricity,Commission,kWh,14062855
+2013,8,Aug,Electricity,Commission,kWh,14891460
+2013,9,Sep,Electricity,Commission,kWh,14492253
+2013,10,Oct,Electricity,Commission,kWh,13994091
+2013,11,Nov,Electricity,Commission,kWh,13648436
+2013,12,Dec,Electricity,Commission,kWh,13443219
+2014,1,Jan,Electricity,Commission,kWh,13785012
+2014,2,Feb,Electricity,Commission,kWh,12135373
+2014,3,Mar,Electricity,Commission,kWh,13777385
+2014,4,Apr,Electricity,Commission,kWh,13173650
+2014,5,May,Electricity,Commission,kWh,14074335
+2014,6,Jun,Electricity,Commission,kWh,13753007
+2014,7,Jul,Electricity,Commission,kWh,14449433
+2014,8,Aug,Electricity,Commission,kWh,14398637
+2014,9,Sep,Electricity,Commission,kWh,14906904
+2014,10,Oct,Electricity,Commission,kWh,14930634
+2014,11,Nov,Electricity,Commission,kWh,13892377
+2014,12,Dec,Electricity,Commission,kWh,13925233
+2015,1,Jan,Electricity,Commission,kWh,13250939
+2015,2,Feb,Electricity,Commission,kWh,12349999
+2015,3,Mar,Electricity,Commission,kWh,13817453
+2015,4,Apr,Electricity,Commission,kWh,13275634
+2015,5,May,Electricity,Commission,kWh,13464806
+2015,6,Jun,Electricity,Commission,kWh,14064323
+2015,7,Jul,Electricity,Commission,kWh,15150061
+2015,8,Aug,Electricity,Commission,kWh,14835884
+2015,9,Sep,Electricity,Commission,kWh,15876484
+2015,10,Oct,Electricity,Commission,kWh,15964169
+2015,11,Nov,Electricity,Commission,kWh,12716253
+2015,12,Dec,Electricity,Commission,kWh,13325913
+2016,1,Jan,Electricity,Commission,kWh,13252081
+2016,2,Feb,Electricity,Commission,kWh,13738357
+2016,3,Mar,Electricity,Commission,kWh,14445353
+2016,4,Apr,Electricity,Commission,kWh,13592386
+2016,5,May,Electricity,Commission,kWh,14158738
+2016,6,Jun,Electricity,Commission,kWh,14189444
+2016,7,Jul,Electricity,Commission,kWh,13688645
+2016,8,Aug,Electricity,Commission,kWh,14381376
+2016,9,Sep,Electricity,Commission,kWh,14108936
+2016,10,Oct,Electricity,Commission,kWh,14198247
+2016,11,Nov,Electricity,Commission,kWh,13589262
+2016,12,Dec,Electricity,Commission,kWh,13373127
+2017,1,Jan,Electricity,Commission,kWh,12856883
+2017,2,Feb,Electricity,Commission,kWh,12769195
+2017,3,Mar,Electricity,Commission,kWh,13597666
+2017,4,Apr,Electricity,Commission,kWh,12951573
+2017,5,May,Electricity,Commission,kWh,13533397
+2017,6,Jun,Electricity,Commission,kWh,13504790
+2017,7,Jul,Electricity,Commission,kWh,14042189
+2017,8,Aug,Electricity,Commission,kWh,14973304
+2017,9,Sep,Electricity,Commission,kWh,15604994
+2017,10,Oct,Electricity,Commission,kWh,14018384
+2013,1,Jan,Electricity,Tenant,kWh,13550474
+2013,2,Feb,Electricity,Tenant,kWh,13534046
+2013,3,Mar,Electricity,Tenant,kWh,13446383
+2013,4,Apr,Electricity,Tenant,kWh,13548377
+2013,5,May,Electricity,Tenant,kWh,13206269
+2013,6,Jun,Electricity,Tenant,kWh,13648306
+2013,7,Jul,Electricity,Tenant,kWh,13754718
+2013,8,Aug,Electricity,Tenant,kWh,13361413
+2013,9,Sep,Electricity,Tenant,kWh,13683284
+2013,10,Oct,Electricity,Tenant,kWh,13484285
+2013,11,Nov,Electricity,Tenant,kWh,13301140
+2013,12,Dec,Electricity,Tenant,kWh,12766018
+2014,1,Jan,Electricity,Tenant,kWh,13015446
+2014,2,Feb,Electricity,Tenant,kWh,14409958
+2014,3,Mar,Electricity,Tenant,kWh,13015446
+2014,4,Apr,Electricity,Tenant,kWh,13449294
+2014,5,May,Electricity,Tenant,kWh,12868609
+2014,6,Jun,Electricity,Tenant,kWh,13297563
+2014,7,Jul,Electricity,Tenant,kWh,13262319
+2014,8,Aug,Electricity,Tenant,kWh,13503596
+2014,9,Sep,Electricity,Tenant,kWh,13286868
+2014,10,Oct,Electricity,Tenant,kWh,13204029
+2014,11,Nov,Electricity,Tenant,kWh,13054147
+2014,12,Dec,Electricity,Tenant,kWh,12635665
+2015,1,Jan,Electricity,Tenant,kWh,12635665
+2015,2,Feb,Electricity,Tenant,kWh,13989486
+2015,3,Mar,Electricity,Tenant,kWh,12635665
+2015,4,Apr,Electricity,Tenant,kWh,12950955
+2015,5,May,Electricity,Tenant,kWh,13018087
+2015,6,Jun,Electricity,Tenant,kWh,13278801
+2015,7,Jul,Electricity,Tenant,kWh,13325455
+2015,8,Aug,Electricity,Tenant,kWh,13789351
+2015,9,Sep,Electricity,Tenant,kWh,12606205
+2015,10,Oct,Electricity,Tenant,kWh,12574373
+2015,11,Nov,Electricity,Tenant,kWh,13593928
+2015,12,Dec,Electricity,Tenant,kWh,12768529
+2016,1,Jan,Electricity,Tenant,kWh,13156840
+2016,2,Feb,Electricity,Tenant,kWh,13228026
+2016,3,Mar,Electricity,Tenant,kWh,12374605
+2016,4,Apr,Electricity,Tenant,kWh,13319650
+2016,5,May,Electricity,Tenant,kWh,12654429
+2016,6,Jun,Electricity,Tenant,kWh,12995885
+2016,7,Jul,Electricity,Tenant,kWh,13356325
+2016,8,Aug,Electricity,Tenant,kWh,13080777
+2016,9,Sep,Electricity,Tenant,kWh,13453569
+2016,10,Oct,Electricity,Tenant,kWh,13067443
+2016,11,Nov,Electricity,Tenant,kWh,13277738
+2016,12,Dec,Electricity,Tenant,kWh,12388035
+2017,1,Jan,Electricity,Tenant,kWh,12388035
+2017,2,Feb,Electricity,Tenant,kWh,12592560
+2017,3,Mar,Electricity,Tenant,kWh,11879652
+2017,4,Apr,Electricity,Tenant,kWh,12572789
+2017,5,May,Electricity,Tenant,kWh,12218974
+2017,6,Jun,Electricity,Tenant,kWh,12643077
+2017,7,Jul,Electricity,Tenant,kWh,12177691
+2017,8,Aug,Electricity,Tenant,kWh,12130889
+2017,9,Sep,Electricity,Tenant,kWh,12252318
+2017,10,Oct,Electricity,Tenant,kWh,12645871
+2013,1,Jan,Gas,Commission,Therms,351489
+2013,2,Feb,Gas,Commission,Therms,340171
+2013,3,Mar,Gas,Commission,Therms,308400
+2013,4,Apr,Gas,Commission,Therms,270776
+2013,5,May,Gas,Commission,Therms,253194
+2013,6,Jun,Gas,Commission,Therms,225358
+2013,7,Jul,Gas,Commission,Therms,230525
+2013,8,Aug,Gas,Commission,Therms,223986
+2013,9,Sep,Gas,Commission,Therms,198543
+2013,10,Oct,Gas,Commission,Therms,256241
+2013,11,Nov,Gas,Commission,Therms,301372
+2013,12,Dec,Gas,Commission,Therms,340415
+2014,1,Jan,Gas,Commission,Therms,287730
+2014,2,Feb,Gas,Commission,Therms,293502
+2014,3,Mar,Gas,Commission,Therms,254835
+2014,4,Apr,Gas,Commission,Therms,250218
+2014,5,May,Gas,Commission,Therms,223052
+2014,6,Jun,Gas,Commission,Therms,212302
+2014,7,Jul,Gas,Commission,Therms,184508
+2014,8,Aug,Gas,Commission,Therms,187585
+2014,9,Sep,Gas,Commission,Therms,179861
+2014,10,Oct,Gas,Commission,Therms,188402
+2014,11,Nov,Gas,Commission,Therms,236044
+2014,12,Dec,Gas,Commission,Therms,273522
+2015,1,Jan,Gas,Commission,Therms,280575
+2015,2,Feb,Gas,Commission,Therms,262577
+2015,3,Mar,Gas,Commission,Therms,257497
+2015,4,Apr,Gas,Commission,Therms,283072
+2015,5,May,Gas,Commission,Therms,284238
+2015,6,Jun,Gas,Commission,Therms,233489
+2015,7,Jul,Gas,Commission,Therms,196014
+2015,8,Aug,Gas,Commission,Therms,173913
+2015,9,Sep,Gas,Commission,Therms,188836
+2015,10,Oct,Gas,Commission,Therms,212127
+2015,11,Nov,Gas,Commission,Therms,271237
+2015,12,Dec,Gas,Commission,Therms,309760
+2016,1,Jan,Gas,Commission,Therms,320361
+2016,2,Feb,Gas,Commission,Therms,284932
+2016,3,Mar,Gas,Commission,Therms,289517
+2016,4,Apr,Gas,Commission,Therms,266800
+2016,5,May,Gas,Commission,Therms,255750
+2016,6,Jun,Gas,Commission,Therms,227274
+2016,7,Jul,Gas,Commission,Therms,232338
+2016,8,Aug,Gas,Commission,Therms,229917
+2016,9,Sep,Gas,Commission,Therms,231174
+2016,10,Oct,Gas,Commission,Therms,230623
+2016,11,Nov,Gas,Commission,Therms,259969
+2016,12,Dec,Gas,Commission,Therms,329508
+2017,1,Jan,Gas,Commission,Therms,337186
+2017,2,Feb,Gas,Commission,Therms,298070
+2017,3,Mar,Gas,Commission,Therms,277754
+2017,4,Apr,Gas,Commission,Therms,262420
+2017,5,May,Gas,Commission,Therms,250089
+2017,6,Jun,Gas,Commission,Therms,229969
+2017,7,Jul,Gas,Commission,Therms,223755
+2017,8,Aug,Gas,Commission,Therms,200198
+2017,9,Sep,Gas,Commission,Therms,164228
+2017,10,Oct,Gas,Commission,Therms,206260
+2013,1,Jan,Water,Commission,Million Gallons,18.2
+2013,2,Feb,Water,Commission,Million Gallons,17.4
+2013,3,Mar,Water,Commission,Million Gallons,17
+2013,4,Apr,Water,Commission,Million Gallons,21.4
+2013,5,May,Water,Commission,Million Gallons,22.2
+2013,6,Jun,Water,Commission,Million Gallons,22
+2013,7,Jul,Water,Commission,Million Gallons,24.5
+2013,8,Aug,Water,Commission,Million Gallons,21.4
+2013,9,Sep,Water,Commission,Million Gallons,19.5
+2013,10,Oct,Water,Commission,Million Gallons,19.2
+2013,11,Nov,Water,Commission,Million Gallons,15.5
+2013,12,Dec,Water,Commission,Million Gallons,16.6
+2014,1,Jan,Water,Commission,Million Gallons,13.7
+2014,2,Feb,Water,Commission,Million Gallons,11.9
+2014,3,Mar,Water,Commission,Million Gallons,12.5
+2014,4,Apr,Water,Commission,Million Gallons,16.8
+2014,5,May,Water,Commission,Million Gallons,17.5
+2014,6,Jun,Water,Commission,Million Gallons,15.7
+2014,7,Jul,Water,Commission,Million Gallons,21.8
+2014,8,Aug,Water,Commission,Million Gallons,20.9
+2014,9,Sep,Water,Commission,Million Gallons,17.2
+2014,10,Oct,Water,Commission,Million Gallons,18.1
+2014,11,Nov,Water,Commission,Million Gallons,12.7
+2014,12,Dec,Water,Commission,Million Gallons,14.3
+2015,1,Jan,Water,Commission,Million Gallons,12.4
+2015,2,Feb,Water,Commission,Million Gallons,15.4
+2015,3,Mar,Water,Commission,Million Gallons,15.2
+2015,4,Apr,Water,Commission,Million Gallons,17.2
+2015,5,May,Water,Commission,Million Gallons,14.6
+2015,6,Jun,Water,Commission,Million Gallons,16.9
+2015,7,Jul,Water,Commission,Million Gallons,19.5
+2015,8,Aug,Water,Commission,Million Gallons,18.5
+2015,9,Sep,Water,Commission,Million Gallons,17.6
+2015,10,Oct,Water,Commission,Million Gallons,14.7
+2015,11,Nov,Water,Commission,Million Gallons,13.5
+2015,12,Dec,Water,Commission,Million Gallons,15.4
+2016,1,Jan,Water,Commission,Million Gallons,15
+2016,2,Feb,Water,Commission,Million Gallons,15.7
+2016,3,Mar,Water,Commission,Million Gallons,17.7
+2016,4,Apr,Water,Commission,Million Gallons,18.6
+2016,5,May,Water,Commission,Million Gallons,20.4
+2016,6,Jun,Water,Commission,Million Gallons,22.1
+2016,7,Jul,Water,Commission,Million Gallons,23.5
+2016,8,Aug,Water,Commission,Million Gallons,21.7
+2016,9,Sep,Water,Commission,Million Gallons,23.1
+2016,10,Oct,Water,Commission,Million Gallons,22.4
+2016,11,Nov,Water,Commission,Million Gallons,19.6
+2016,12,Dec,Water,Commission,Million Gallons,29.3
+2017,1,Jan,Water,Commission,Million Gallons,14.6
+2017,2,Feb,Water,Commission,Million Gallons,16.7
+2017,3,Mar,Water,Commission,Million Gallons,20
+2017,4,Apr,Water,Commission,Million Gallons,18
+2017,5,May,Water,Commission,Million Gallons,22.8
+2017,6,Jun,Water,Commission,Million Gallons,29.4
+2017,7,Jul,Water,Commission,Million Gallons,19.3
+2017,8,Aug,Water,Commission,Million Gallons,30
+2017,9,Sep,Water,Commission,Million Gallons,24.5
+2013,10,Oct,Water,Commission,Million Gallons,21.4
+2013,11,Nov,Water,Commission,Million Gallons,23.3
+2013,1,Jan,Water,Tenant,Million Gallons,14.8
+2013,2,Feb,Water,Tenant,Million Gallons,15.2
+2013,3,Mar,Water,Tenant,Million Gallons,16.1
+2013,4,Apr,Water,Tenant,Million Gallons,16.5
+2013,5,May,Water,Tenant,Million Gallons,14.8
+2013,6,Jun,Water,Tenant,Million Gallons,16.2
+2013,7,Jul,Water,Tenant,Million Gallons,14.4
+2013,8,Aug,Water,Tenant,Million Gallons,17
+2013,9,Sep,Water,Tenant,Million Gallons,17.5
+2013,10,Oct,Water,Tenant,Million Gallons,15.3
+2013,11,Nov,Water,Tenant,Million Gallons,16.3
+2013,12,Dec,Water,Tenant,Million Gallons,14.8
+2014,1,Jan,Water,Tenant,Million Gallons,17.8
+2014,2,Feb,Water,Tenant,Million Gallons,19.1
+2014,3,Mar,Water,Tenant,Million Gallons,18.7
+2014,4,Apr,Water,Tenant,Million Gallons,17.8
+2014,5,May,Water,Tenant,Million Gallons,16.4
+2014,6,Jun,Water,Tenant,Million Gallons,17.8
+2014,7,Jul,Water,Tenant,Million Gallons,15.4
+2014,8,Aug,Water,Tenant,Million Gallons,16.2
+2014,9,Sep,Water,Tenant,Million Gallons,18.2
+2014,10,Oct,Water,Tenant,Million Gallons,16.2
+2014,11,Nov,Water,Tenant,Million Gallons,16.6
+2014,12,Dec,Water,Tenant,Million Gallons,13.2
+2015,1,Jan,Water,Tenant,Million Gallons,15.7
+2015,2,Feb,Water,Tenant,Million Gallons,15.4
+2015,3,Mar,Water,Tenant,Million Gallons,16.1
+2015,4,Apr,Water,Tenant,Million Gallons,13.7
+2015,5,May,Water,Tenant,Million Gallons,14.2
+2015,6,Jun,Water,Tenant,Million Gallons,15
+2015,7,Jul,Water,Tenant,Million Gallons,13.2
+2015,8,Aug,Water,Tenant,Million Gallons,14.7
+2015,9,Sep,Water,Tenant,Million Gallons,14.2
+2015,10,Oct,Water,Tenant,Million Gallons,16.9
+2015,11,Nov,Water,Tenant,Million Gallons,12.8
+2015,12,Dec,Water,Tenant,Million Gallons,11.6
+2016,1,Jan,Water,Tenant,Million Gallons,11.7
+2016,2,Feb,Water,Tenant,Million Gallons,13.4
+2016,3,Mar,Water,Tenant,Million Gallons,11.5
+2016,4,Apr,Water,Tenant,Million Gallons,12.8
+2016,5,May,Water,Tenant,Million Gallons,13.3
+2016,6,Jun,Water,Tenant,Million Gallons,13.3
+2016,7,Jul,Water,Tenant,Million Gallons,13.7
+2016,8,Aug,Water,Tenant,Million Gallons,13.9
+2016,9,Sep,Water,Tenant,Million Gallons,11.4
+2016,10,Oct,Water,Tenant,Million Gallons,13.4
+2016,11,Nov,Water,Tenant,Million Gallons,11.9
+2016,12,Dec,Water,Tenant,Million Gallons,10.9
+2017,1,Jan,Water,Tenant,Million Gallons,13.1
+2017,2,Feb,Water,Tenant,Million Gallons,12
+2017,3,Mar,Water,Tenant,Million Gallons,11.6
+2017,4,Apr,Water,Tenant,Million Gallons,10.7
+2017,5,May,Water,Tenant,Million Gallons,15.2
+2017,6,Jun,Water,Tenant,Million Gallons,13
+2017,7,Jul,Water,Tenant,Million Gallons,15.1
+2017,8,Aug,Water,Tenant,Million Gallons,12.5
+2017,9,Sep,Water,Tenant,Million Gallons,14.2
+2013,10,Oct,Water,Tenant,Million Gallons,12.4
+2013,11,Nov,Water,Tenant,Million Gallons,14.4
+2010,1,Jan,Recycling,Campus,Tons,0
+2010,2,Feb,Recycling,Campus,Tons,0
+2010,3,Mar,Recycling,Campus,Tons,0
+2010,4,Apr,Recycling,Campus,Tons,0
+2010,5,May,Recycling,Campus,Tons,0
+2010,6,Jun,Recycling,Campus,Tons,0
+2010,7,Jul,Recycling,Campus,Tons,112
+2010,8,Aug,Recycling,Campus,Tons,112
+2010,9,Sep,Recycling,Campus,Tons,112
+2010,10,Oct,Recycling,Campus,Tons,108.5
+2010,11,Nov,Recycling,Campus,Tons,108.5
+2010,12,Dec,Recycling,Campus,Tons,108.5
+2011,1,Jan,Recycling,Campus,Tons,100
+2011,2,Feb,Recycling,Campus,Tons,100
+2011,3,Mar,Recycling,Campus,Tons,100
+2011,4,Apr,Recycling,Campus,Tons,106.2
+2011,5,May,Recycling,Campus,Tons,106.2
+2011,6,Jun,Recycling,Campus,Tons,106.2
+2011,7,Jul,Recycling,Campus,Tons,117.6
+2011,8,Aug,Recycling,Campus,Tons,117.6
+2011,9,Sep,Recycling,Campus,Tons,117.6
+2011,10,Oct,Recycling,Campus,Tons,124.4
+2011,11,Nov,Recycling,Campus,Tons,124.4
+2011,12,Dec,Recycling,Campus,Tons,124.4
+2012,1,Jan,Recycling,Campus,Tons,109.1
+2012,2,Feb,Recycling,Campus,Tons,109.1
+2012,3,Mar,Recycling,Campus,Tons,109.1
+2012,4,Apr,Recycling,Campus,Tons,116.4
+2012,5,May,Recycling,Campus,Tons,116.4
+2012,6,Jun,Recycling,Campus,Tons,116.4
+2012,7,Jul,Recycling,Campus,Tons,118.8
+2012,8,Aug,Recycling,Campus,Tons,118.8
+2012,9,Sep,Recycling,Campus,Tons,118.8
+2012,10,Oct,Recycling,Campus,Tons,127.6
+2012,11,Nov,Recycling,Campus,Tons,127.6
+2012,12,Dec,Recycling,Campus,Tons,127.6
+2013,1,Jan,Recycling,Campus,Tons,112.2
+2013,2,Feb,Recycling,Campus,Tons,112.2
+2013,3,Mar,Recycling,Campus,Tons,112.2
+2013,4,Apr,Recycling,Campus,Tons,121.4
+2013,5,May,Recycling,Campus,Tons,121.4
+2013,6,Jun,Recycling,Campus,Tons,121.4
+2013,7,Jul,Recycling,Campus,Tons,129.1
+2013,8,Aug,Recycling,Campus,Tons,129.1
+2013,9,Sep,Recycling,Campus,Tons,129.1
+2013,10,Oct,Recycling,Campus,Tons,121.2
+2013,11,Nov,Recycling,Campus,Tons,121.2
+2013,12,Dec,Recycling,Campus,Tons,121.2
+2014,1,Jan,Recycling,Campus,Tons,121.7
+2014,2,Feb,Recycling,Campus,Tons,121.7
+2014,3,Mar,Recycling,Campus,Tons,121.7
+2014,4,Apr,Recycling,Campus,Tons,131.2
+2014,5,May,Recycling,Campus,Tons,131.2
+2014,6,Jun,Recycling,Campus,Tons,131.2
+2014,7,Jul,Recycling,Campus,Tons,154.9
+2014,8,Aug,Recycling,Campus,Tons,154.9
+2014,9,Sep,Recycling,Campus,Tons,154.9
+2014,10,Oct,Recycling,Campus,Tons,150.1
+2014,11,Nov,Recycling,Campus,Tons,150.1
+2014,12,Dec,Recycling,Campus,Tons,150.1
+2015,1,Jan,Recycling,Campus,Tons,137.3
+2015,2,Feb,Recycling,Campus,Tons,137.3
+2015,3,Mar,Recycling,Campus,Tons,137.3
+2015,4,Apr,Recycling,Campus,Tons,151.4
+2015,5,May,Recycling,Campus,Tons,151.4
+2015,6,Jun,Recycling,Campus,Tons,151.4
+2015,7,Jul,Recycling,Campus,Tons,160.6
+2015,8,Aug,Recycling,Campus,Tons,160.6
+2015,9,Sep,Recycling,Campus,Tons,160.6
+2015,10,Oct,Recycling,Campus,Tons,154.5
+2015,11,Nov,Recycling,Campus,Tons,154.5
+2015,12,Dec,Recycling,Campus,Tons,154.5
+2016,1,Jan,Recycling,Campus,Tons,156.1
+2016,2,Feb,Recycling,Campus,Tons,156.1
+2016,3,Mar,Recycling,Campus,Tons,156.1
+2016,4,Apr,Recycling,Campus,Tons,210
+2016,5,May,Recycling,Campus,Tons,210
+2016,6,Jun,Recycling,Campus,Tons,210
+2016,7,Jul,Recycling,Campus,Tons,204.4
+2016,8,Aug,Recycling,Campus,Tons,204.4
+2016,9,Sep,Recycling,Campus,Tons,204.4
+2016,10,Oct,Recycling,Campus,Tons,0
+2016,11,Nov,Recycling,Campus,Tons,0
+2016,12,Dec,Recycling,Campus,Tons,0
+2010,1,Jan,Compost,Campus,Tons,0
+2010,2,Feb,Compost,Campus,Tons,0
+2010,3,Mar,Compost,Campus,Tons,0
+2010,4,Apr,Compost,Campus,Tons,0
+2010,5,May,Compost,Campus,Tons,0
+2010,6,Jun,Compost,Campus,Tons,0
+2010,7,Jul,Compost,Campus,Tons,271.7
+2010,8,Aug,Compost,Campus,Tons,271.7
+2010,9,Sep,Compost,Campus,Tons,271.7
+2010,10,Oct,Compost,Campus,Tons,266.9
+2010,11,Nov,Compost,Campus,Tons,266.9
+2010,12,Dec,Compost,Campus,Tons,266.9
+2011,1,Jan,Compost,Campus,Tons,266.3
+2011,2,Feb,Compost,Campus,Tons,266.3
+2011,3,Mar,Compost,Campus,Tons,266.3
+2011,4,Apr,Compost,Campus,Tons,259.8
+2011,5,May,Compost,Campus,Tons,259.8
+2011,6,Jun,Compost,Campus,Tons,259.8
+2011,7,Jul,Compost,Campus,Tons,282.2
+2011,8,Aug,Compost,Campus,Tons,282.2
+2011,9,Sep,Compost,Campus,Tons,282.2
+2011,10,Oct,Compost,Campus,Tons,261.2
+2011,11,Nov,Compost,Campus,Tons,261.2
+2011,12,Dec,Compost,Campus,Tons,261.2
+2012,1,Jan,Compost,Campus,Tons,247.3
+2012,2,Feb,Compost,Campus,Tons,247.3
+2012,3,Mar,Compost,Campus,Tons,247.3
+2012,4,Apr,Compost,Campus,Tons,235.3
+2012,5,May,Compost,Campus,Tons,235.3
+2012,6,Jun,Compost,Campus,Tons,235.3
+2012,7,Jul,Compost,Campus,Tons,305.2
+2012,8,Aug,Compost,Campus,Tons,305.2
+2012,9,Sep,Compost,Campus,Tons,305.2
+2012,10,Oct,Compost,Campus,Tons,301.5
+2012,11,Nov,Compost,Campus,Tons,301.5
+2012,12,Dec,Compost,Campus,Tons,301.5
+2013,1,Jan,Compost,Campus,Tons,255.5
+2013,2,Feb,Compost,Campus,Tons,255.5
+2013,3,Mar,Compost,Campus,Tons,255.5
+2013,4,Apr,Compost,Campus,Tons,291.9
+2013,5,May,Compost,Campus,Tons,291.9
+2013,6,Jun,Compost,Campus,Tons,291.9
+2013,7,Jul,Compost,Campus,Tons,307.9
+2013,8,Aug,Compost,Campus,Tons,307.9
+2013,9,Sep,Compost,Campus,Tons,307.9
+2013,10,Oct,Compost,Campus,Tons,285.3
+2013,11,Nov,Compost,Campus,Tons,285.3
+2013,12,Dec,Compost,Campus,Tons,285.3
+2014,1,Jan,Compost,Campus,Tons,258.6
+2014,2,Feb,Compost,Campus,Tons,258.6
+2014,3,Mar,Compost,Campus,Tons,258.6
+2014,4,Apr,Compost,Campus,Tons,276.4
+2014,5,May,Compost,Campus,Tons,276.4
+2014,6,Jun,Compost,Campus,Tons,276.4
+2014,7,Jul,Compost,Campus,Tons,314.5
+2014,8,Aug,Compost,Campus,Tons,314.5
+2014,9,Sep,Compost,Campus,Tons,314.5
+2014,10,Oct,Compost,Campus,Tons,345.3
+2014,11,Nov,Compost,Campus,Tons,345.3
+2014,12,Dec,Compost,Campus,Tons,345.3
+2015,1,Jan,Compost,Campus,Tons,313
+2015,2,Feb,Compost,Campus,Tons,313
+2015,3,Mar,Compost,Campus,Tons,313
+2015,4,Apr,Compost,Campus,Tons,348.7
+2015,5,May,Compost,Campus,Tons,348.7
+2015,6,Jun,Compost,Campus,Tons,348.7
+2015,7,Jul,Compost,Campus,Tons,378
+2015,8,Aug,Compost,Campus,Tons,378
+2015,9,Sep,Compost,Campus,Tons,378
+2015,10,Oct,Compost,Campus,Tons,410.7
+2015,11,Nov,Compost,Campus,Tons,410.7
+2015,12,Dec,Compost,Campus,Tons,410.7
+2016,1,Jan,Compost,Campus,Tons,411.9
+2016,2,Feb,Compost,Campus,Tons,411.9
+2016,3,Mar,Compost,Campus,Tons,411.9
+2016,4,Apr,Compost,Campus,Tons,438.2
+2016,5,May,Compost,Campus,Tons,438.2
+2016,6,Jun,Compost,Campus,Tons,438.2
+2016,7,Jul,Compost,Campus,Tons,387
+2016,8,Aug,Compost,Campus,Tons,387
+2016,9,Sep,Compost,Campus,Tons,387
+2016,10,Oct,Compost,Campus,Tons,0
+2016,11,Nov,Compost,Campus,Tons,0
+2016,12,Dec,Compost,Campus,Tons,0
+2010,1,Jan,Landfill,Campus,Tons,0
+2010,2,Feb,Landfill,Campus,Tons,0
+2010,3,Mar,Landfill,Campus,Tons,0
+2010,4,Apr,Landfill,Campus,Tons,0
+2010,5,May,Landfill,Campus,Tons,0
+2010,6,Jun,Landfill,Campus,Tons,0
+2010,7,Jul,Landfill,Campus,Tons,368.4
+2010,8,Aug,Landfill,Campus,Tons,368.4
+2010,9,Sep,Landfill,Campus,Tons,368.4
+2010,10,Oct,Landfill,Campus,Tons,334.5
+2010,11,Nov,Landfill,Campus,Tons,334.5
+2010,12,Dec,Landfill,Campus,Tons,334.5
+2011,1,Jan,Landfill,Campus,Tons,331.6
+2011,2,Feb,Landfill,Campus,Tons,331.6
+2011,3,Mar,Landfill,Campus,Tons,331.6
+2011,4,Apr,Landfill,Campus,Tons,367.7
+2011,5,May,Landfill,Campus,Tons,367.7
+2011,6,Jun,Landfill,Campus,Tons,367.7
+2011,7,Jul,Landfill,Campus,Tons,382.2
+2011,8,Aug,Landfill,Campus,Tons,382.2
+2011,9,Sep,Landfill,Campus,Tons,382.2
+2011,10,Oct,Landfill,Campus,Tons,423
+2011,11,Nov,Landfill,Campus,Tons,423
+2011,12,Dec,Landfill,Campus,Tons,423
+2012,1,Jan,Landfill,Campus,Tons,328.8
+2012,2,Feb,Landfill,Campus,Tons,328.8
+2012,3,Mar,Landfill,Campus,Tons,328.8
+2012,4,Apr,Landfill,Campus,Tons,359.7
+2012,5,May,Landfill,Campus,Tons,359.7
+2012,6,Jun,Landfill,Campus,Tons,359.7
+2012,7,Jul,Landfill,Campus,Tons,390.2
+2012,8,Aug,Landfill,Campus,Tons,390.2
+2012,9,Sep,Landfill,Campus,Tons,390.2
+2012,10,Oct,Landfill,Campus,Tons,374
+2012,11,Nov,Landfill,Campus,Tons,374
+2012,12,Dec,Landfill,Campus,Tons,374
+2013,1,Jan,Landfill,Campus,Tons,323.6
+2013,2,Feb,Landfill,Campus,Tons,323.6
+2013,3,Mar,Landfill,Campus,Tons,323.6
+2013,4,Apr,Landfill,Campus,Tons,377.6
+2013,5,May,Landfill,Campus,Tons,377.6
+2013,6,Jun,Landfill,Campus,Tons,377.6
+2013,7,Jul,Landfill,Campus,Tons,427.8
+2013,8,Aug,Landfill,Campus,Tons,427.8
+2013,9,Sep,Landfill,Campus,Tons,427.8
+2013,10,Oct,Landfill,Campus,Tons,408.3
+2013,11,Nov,Landfill,Campus,Tons,408.3
+2013,12,Dec,Landfill,Campus,Tons,408.3
+2014,1,Jan,Landfill,Campus,Tons,391.2
+2014,2,Feb,Landfill,Campus,Tons,391.2
+2014,3,Mar,Landfill,Campus,Tons,391.2
+2014,4,Apr,Landfill,Campus,Tons,446.9
+2014,5,May,Landfill,Campus,Tons,446.9
+2014,6,Jun,Landfill,Campus,Tons,446.9
+2014,7,Jul,Landfill,Campus,Tons,450.9
+2014,8,Aug,Landfill,Campus,Tons,450.9
+2014,9,Sep,Landfill,Campus,Tons,450.9
+2014,10,Oct,Landfill,Campus,Tons,415.5
+2014,11,Nov,Landfill,Campus,Tons,415.5
+2014,12,Dec,Landfill,Campus,Tons,415.5
+2015,1,Jan,Landfill,Campus,Tons,406.6
+2015,2,Feb,Landfill,Campus,Tons,406.6
+2015,3,Mar,Landfill,Campus,Tons,406.6
+2015,4,Apr,Landfill,Campus,Tons,462.8
+2015,5,May,Landfill,Campus,Tons,462.8
+2015,6,Jun,Landfill,Campus,Tons,462.8
+2015,7,Jul,Landfill,Campus,Tons,501.9
+2015,8,Aug,Landfill,Campus,Tons,501.9
+2015,9,Sep,Landfill,Campus,Tons,501.9
+2015,10,Oct,Landfill,Campus,Tons,483.7
+2015,11,Nov,Landfill,Campus,Tons,483.7
+2015,12,Dec,Landfill,Campus,Tons,483.7
+2016,1,Jan,Landfill,Campus,Tons,379.4
+2016,2,Feb,Landfill,Campus,Tons,379.4
+2016,3,Mar,Landfill,Campus,Tons,379.4
+2016,4,Apr,Landfill,Campus,Tons,405.7
+2016,5,May,Landfill,Campus,Tons,405.7
+2016,6,Jun,Landfill,Campus,Tons,405.7
+2016,7,Jul,Landfill,Campus,Tons,539.7
+2016,8,Aug,Landfill,Campus,Tons,539.7
+2016,9,Sep,Landfill,Campus,Tons,539.7
+2016,10,Oct,Landfill,Campus,Tons,0
+2016,11,Nov,Landfill,Campus,Tons,0
+2016,12,Dec,Landfill,Campus,Tons,0
+2013,1,Jan,Passengers,Campus,PAX,3204637
+2013,2,Feb,Passengers,Campus,PAX,2966477
+2013,3,Mar,Passengers,Campus,PAX,3593364
+2013,4,Apr,Passengers,Campus,PAX,3604104
+2013,5,May,Passengers,Campus,PAX,3933016
+2013,6,Jun,Passengers,Campus,PAX,4146797
+2013,7,Jul,Passengers,Campus,PAX,4176486
+2013,8,Aug,Passengers,Campus,PAX,4347059
+2013,9,Sep,Passengers,Campus,PAX,3781168
+2013,10,Oct,Passengers,Campus,PAX,3926441
+2013,11,Nov,Passengers,Campus,PAX,3466878
+2013,12,Dec,Passengers,Campus,PAX,3814984
+2014,1,Jan,Passengers,Campus,PAX,3432625
+2014,2,Feb,Passengers,Campus,PAX,3078405
+2014,3,Mar,Passengers,Campus,PAX,3765504
+2014,4,Apr,Passengers,Campus,PAX,3881893
+2014,5,May,Passengers,Campus,PAX,4147096
+2014,6,Jun,Passengers,Campus,PAX,4316447
+2014,7,Jul,Passengers,Campus,PAX,4506218
+2014,8,Aug,Passengers,Campus,PAX,4525926
+2014,9,Sep,Passengers,Campus,PAX,3919485
+2014,10,Oct,Passengers,Campus,PAX,4059884
+2014,11,Nov,Passengers,Campus,PAX,3629119
+2014,12,Dec,Passengers,Campus,PAX,3856908
+2015,1,Jan,Passengers,Campus,PAX,3551072
+2015,2,Feb,Passengers,Campus,PAX,3248534
+2015,3,Mar,Passengers,Campus,PAX,4002732
+2015,4,Apr,Passengers,Campus,PAX,4022770
+2015,5,May,Passengers,Campus,PAX,4361802
+2015,6,Jun,Passengers,Campus,PAX,4557382
+2015,7,Jul,Passengers,Campus,PAX,4802431
+2015,8,Aug,Passengers,Campus,PAX,4797484
+2015,9,Sep,Passengers,Campus,PAX,4201882
+2015,10,Oct,Passengers,Campus,PAX,4375077
+2015,11,Nov,Passengers,Campus,PAX,4014388
+2015,12,Dec,Passengers,Campus,PAX,4129462
+2016,1,Jan,Passengers,Campus,PAX,3749417
+2016,2,Feb,Passengers,Campus,PAX,3543751
+2016,3,Mar,Passengers,Campus,PAX,4138030
+2016,4,Apr,Passengers,Campus,PAX,4172707
+2016,5,May,Passengers,Campus,PAX,4574399
+2016,6,Jun,Passengers,Campus,PAX,4922320
+2016,7,Jul,Passengers,Campus,PAX,5169044
+2016,8,Aug,Passengers,Campus,PAX,5112250
+2016,9,Sep,Passengers,Campus,PAX,4544856
+2016,10,Oct,Passengers,Campus,PAX,4572106
+2016,11,Nov,Passengers,Campus,PAX,4267820
+2016,12,Dec,Passengers,Campus,PAX,4339805
+2017,1,Jan,Passengers,Campus,PAX,3839455
+2017,2,Feb,Passengers,Campus,PAX,3481480
+2017,3,Mar,Passengers,Campus,PAX,4335634
+2017,4,Apr,Passengers,Campus,PAX,4426358
+2017,5,May,Passengers,Campus,PAX,4699410
+2017,6,Jun,Passengers,Campus,PAX,5134738
+2017,7,Jul,Passengers,Campus,PAX,5497819
+2017,8,Aug,Passengers,Campus,PAX,5518744

@@ -1,0 +1,1390 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MARINA BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:28.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{4774CE50-2151-458C-A3E1-E6B2BE899CBA}</value></Data><Data name="objectid"><value>65</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>26758000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>BUCHANAN ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.433811174701,37.805048181243
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value>5</value></Data><Data name="street2"><value>HARRISON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:18:12.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{EC77A1F6-4EEA-4537-8A1C-0E3DD868656E}</value></Data><Data name="objectid"><value>40</value></Data><Data name="update_yr"><value>2017</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>24228000</value></Data><Data name="created_date"><value>2016-12-15T22:59:34.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413398451401,37.769506948919
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CHARLES J BRENHAM PL</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-10-25T16:04:33.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{EAA01A9C-1BC3-4830-A63B-A6B189AE586D}</value></Data><Data name="objectid"><value>973</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30045000</value></Data><Data name="created_date"><value>2017-10-25T16:02:15.000Z</value></Data><Data name="street1"><value>MCALLISTER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413161264093,37.780998727483
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>NORTH POINT ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-16T00:24:34.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{8231F28B-D792-471A-9E1B-8B38763F1ACF}</value></Data><Data name="objectid"><value>963</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25474000</value></Data><Data name="created_date"><value>2017-08-16T00:23:07.000Z</value></Data><Data name="street1"><value>THE EMBARCADERO</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407314287894,37.807385017158
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>NATOMA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T18:07:13.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{6A65CDAF-DCE2-4876-B7F5-2ECD968129EE}</value></Data><Data name="objectid"><value>331</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24289000</value></Data><Data name="created_date"><value>2017-05-22T18:06:30.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.409951454557,37.778421227779
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>3</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ESSEX ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:33.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{3DE11066-6F93-44B4-BFBF-95F49CFE8AF8}</value></Data><Data name="objectid"><value>63</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24524000</value></Data><Data name="created_date"><value>2016-05-09T21:42:43.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.395658679847,37.786383883243
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ANZA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:51:13.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{5BCFA27C-B9D8-4FFF-BC51-18FB9889F840}</value></Data><Data name="objectid"><value>647</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27225000</value></Data><Data name="created_date"><value>2017-07-26T21:38:37.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.458744844272,37.779338100144
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GEARY BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:52:10.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{BEBFD64A-C113-419B-8D23-B9F652981482}</value></Data><Data name="objectid"><value>648</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>27230000</value></Data><Data name="created_date"><value>2017-07-26T21:51:35.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.458871882928,37.781262002287
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ESSEX ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-05-09T21:48:11.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{0522310A-58AA-4D95-877F-D597C2F7AA41}</value></Data><Data name="objectid"><value>9</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24524000</value></Data><Data name="created_date"><value>2016-05-09T21:46:55.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.395658679847,37.786383883243
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>8</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MISSION ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-29T19:43:41.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{5259D413-1427-4C2B-B295-9FD876114182}</value></Data><Data name="objectid"><value>970</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24421000</value></Data><Data name="created_date"><value>2017-08-29T19:42:22.000Z</value></Data><Data name="street1"><value>11TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.417117349833,37.774330231544
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MISSION ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T18:05:22.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{744E45AE-5DA2-4280-A770-EDC90B6A0419}</value></Data><Data name="objectid"><value>328</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24315000</value></Data><Data name="created_date"><value>2017-05-22T18:04:38.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410949788693,37.779216630551
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MINNA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T18:06:14.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{49B835CA-EDA4-40DD-A487-6E5D11796217}</value></Data><Data name="objectid"><value>330</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24291000</value></Data><Data name="created_date"><value>2017-05-22T18:05:42.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410414707584,37.778790317289
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>2ND ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-05-09T22:18:02.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{9D5FC69A-C815-4544-B915-A528BCE8C40F}</value></Data><Data name="objectid"><value>2</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30734000</value></Data><Data name="created_date"><value>2016-05-09T22:16:44.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.401388705752,37.789269269497
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HAIGHT ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{DCA2535E-AC1C-40D5-9929-969BC5BE3937}</value></Data><Data name="objectid"><value>28</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>26025000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>SCOTT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.435386208844,37.771484374504
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SACRAMENTO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:59:18.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{9429957C-D4B5-4592-BE68-A593A54ADDF1}</value></Data><Data name="objectid"><value>652</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27570000</value></Data><Data name="created_date"><value>2017-07-26T21:59:00.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.45926898918,37.786628242039
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{18F8F7B8-0BD0-405B-BCF4-C9CE520E435A}</value></Data><Data name="objectid"><value>37</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30755000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422632914862,37.77250770905
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>11TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-15T22:58:09.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{75658C2F-676C-4A36-8473-B861342E0510}</value></Data><Data name="objectid"><value>11</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24216000</value></Data><Data name="created_date"><value>2016-12-15T22:45:46.000Z</value></Data><Data name="street1"><value>DIVISION ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410944300976,37.769416135446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MISSION ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:30:23.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{7D40715F-192C-410F-A329-DDA7B4CA97C1}</value></Data><Data name="objectid"><value>321</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24311000</value></Data><Data name="created_date"><value>2017-05-22T17:29:04.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413170905935,37.777462364881
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MINNA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:35:17.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{C66747D1-52AA-4E51-A08B-6A5A93107140}</value></Data><Data name="objectid"><value>326</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24310000</value></Data><Data name="created_date"><value>2017-05-22T17:34:46.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.412629881433,37.777031365705
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>7</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ELK ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-10-25T16:26:30.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{BC313BF6-B49F-425C-9BF5-413175AB9F79}</value></Data><Data name="objectid"><value>656</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>22267000</value></Data><Data name="created_date"><value>2017-08-15T22:04:57.000Z</value></Data><Data name="street1"><value>BOSWORTH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.439947599426,37.734861748731
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>9TH ST/LARKIN ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{B8655DA0-00F7-4570-8DF4-017046253A2A}</value></Data><Data name="objectid"><value>27</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>SW, NE</value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30746000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.41630492582,37.777498734798
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>EUCLID AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:54:58.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{99442930-D06C-4DF1-AC51-7E153756FFC9}</value></Data><Data name="objectid"><value>650</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>27562000</value></Data><Data name="created_date"><value>2017-07-26T21:53:25.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.459057775685,37.783831546196
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>10TH ST/POLK ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{9BDCB2C9-CB74-4681-B13E-9904F408B593}</value></Data><Data name="objectid"><value>15</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30746000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.41751468657,37.776545785908
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-15T23:03:10.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{62046732-04C9-470E-B39F-36CFC012BE96}</value></Data><Data name="objectid"><value>61</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24349000</value></Data><Data name="created_date"><value>2016-12-15T23:02:33.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.415590229257,37.769596104226
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>PANHANDLE PATH/SHRADER ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:33.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{1768AB25-350F-4434-AB3F-845F929A728D}</value></Data><Data name="objectid"><value>14</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>26437000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>FELL ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.452450111703,37.772194570378
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MENDELL ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:31.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{00197F01-C7D1-4F74-A17B-41422687974C}</value></Data><Data name="objectid"><value>21</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>33105000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>CARGO WAY</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.383131435225,37.743888228357
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>3</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MISSISSIPPI ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-16T18:08:24.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{57D3A0E3-B379-4C7B-B2CA-58CBDFB4B44B}</value></Data><Data name="objectid"><value>965</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23785000</value></Data><Data name="created_date"><value>2017-08-16T18:05:57.000Z</value></Data><Data name="street1"><value>16TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.39507375546,37.766549522694
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>STEINER ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{9F9C48BB-2227-49B5-B5B2-64056F4AF6D4}</value></Data><Data name="objectid"><value>53</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>25987000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>DUBOCE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431583605939,37.769312052179
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FILLMORE ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{885C6BE8-D26A-4318-ACAB-3D7D3BD4CE69}</value></Data><Data name="objectid"><value>10</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>E</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25968000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MCALLISTER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431776437454,37.778636981496
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SACRAMENTO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:58:18.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{2C2A5062-DF43-40D4-BD98-02DAF2D9465D}</value></Data><Data name="objectid"><value>643</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27570000</value></Data><Data name="created_date"><value>2017-07-26T21:15:56.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.45926898918,37.786628242039
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>7</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>LINCOLN WAY</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:26.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{13F6DAA0-4CE5-4E87-B2A0-A9E0193344D9}</value></Data><Data name="objectid"><value>1282</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>5</value></Data><Data name="cnn"><value>33561000</value></Data><Data name="created_date"><value>2017-12-13T22:28:54.000Z</value></Data><Data name="street1"><value>7TH AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.464325676412,37.76607677018
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>8</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ST MARYS AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-16T18:25:21.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{CAD96ADB-4CEA-465E-87B8-116C3215F40F}</value></Data><Data name="objectid"><value>966</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21865000</value></Data><Data name="created_date"><value>2017-08-16T18:23:36.000Z</value></Data><Data name="street1"><value>SAN JOSE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.428510665662,37.735018774311
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2004</value></Data><Data name="update_mo"><value>10</value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-10-06T23:22:47.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{A895289B-FD24-4113-875B-20952744197D}</value></Data><Data name="objectid"><value>60</value></Data><Data name="update_yr"><value>2016</value></Data><Data name="corner"><value>SW</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24336000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>14TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.415627003614,37.768542278031
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>BRODERICK ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:27.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{326C4731-BBF9-4D19-BB1E-632EA86C9811}</value></Data><Data name="objectid"><value>31</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>26036000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>OAK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.439101827051,37.772926872193
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>8</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CESAR CHAVEZ ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-15T22:56:02.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{01FA7F3A-CB7B-471F-B6FF-F32CCF91E4E7}</value></Data><Data name="objectid"><value>961</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21345000</value></Data><Data name="created_date"><value>2017-08-15T22:54:06.000Z</value></Data><Data name="street1"><value>VALENCIA ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.420292043149,37.748130224734
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MARINA BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:32.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{DDD6B854-A39F-4F68-B162-C23768DE335C}</value></Data><Data name="objectid"><value>18</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>26796000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>SCOTT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.442223015738,37.805791167596
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FULTON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:36:38.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{ED1E278A-8F68-4335-B86A-F77CB40EFB98}</value></Data><Data name="objectid"><value>645</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27191000</value></Data><Data name="created_date"><value>2017-07-26T21:35:52.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.458384319309,37.774313836779
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ILLINOIS ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{0B2943F6-36AF-46B3-A315-F09A5A03059A}</value></Data><Data name="objectid"><value>68</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>54159000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>CARGO WAY</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.386052864192,37.745546647172
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>EUCLID AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:54:29.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{D512E3AA-B729-4430-99FE-5028D10CB215}</value></Data><Data name="objectid"><value>651</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27562000</value></Data><Data name="created_date"><value>2017-07-26T21:54:06.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.459057775685,37.783831546196
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CLEMENT ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:53:21.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{59683B60-C088-477F-9D37-FC408E889EE7}</value></Data><Data name="objectid"><value>649</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27232000</value></Data><Data name="created_date"><value>2017-07-26T21:52:42.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.459011622802,37.783193606773
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>BERNICE ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-15T23:49:57.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{F5715A39-9700-4624-A0EE-574028E35BA6}</value></Data><Data name="objectid"><value>33</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>33030000</value></Data><Data name="created_date"><value>2016-12-15T23:49:20.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414135246633,37.769541833562
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>PIERCE ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{A2DBECD0-117C-4165-A3EB-3F92DFFAE0DB}</value></Data><Data name="objectid"><value>49</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>25996000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>WALLER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.43356038605,37.770760121913
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ILLINOIS ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:28.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{80912707-8AAC-4888-A443-5ED6E7923EFE}</value></Data><Data name="objectid"><value>71</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>20247000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>CARGO WAY</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.386052864192,37.745546647172
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HAIGHT ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{B09BE484-7E77-4FDF-9C9C-19B311157DE2}</value></Data><Data name="objectid"><value>66</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30753000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.4219544718,37.773040942838
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>PIERCE ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{7E4B948E-1617-425A-934E-5F03F922BC66}</value></Data><Data name="objectid"><value>48</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>25999000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>HAIGHT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.433747998062,37.771693164204
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value>11</value></Data><Data name="street2"><value>DUNCAN ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-15T23:18:35.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE CHANNEL</value></Data><Data name="globalid"><value>{8D89C11A-2247-48C4-BB1E-3CE1C3774556}</value></Data><Data name="objectid"><value>962</value></Data><Data name="update_yr"><value>2016</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21341000</value></Data><Data name="created_date"><value>2017-08-15T23:14:45.000Z</value></Data><Data name="street1"><value>TIFFANY AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.420370832323,37.746496986954
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>STEVENSON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:36:13.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{38013D05-CFCB-4676-80D7-3A9023578683}</value></Data><Data name="objectid"><value>327</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24327000</value></Data><Data name="created_date"><value>2017-05-22T17:35:44.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414156590503,37.778245828711
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>NORTH POINT ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:36:03.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{3B4BA4D8-866B-443C-A246-1AC49FA9374B}</value></Data><Data name="objectid"><value>964</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25474000</value></Data><Data name="created_date"><value>2017-08-16T00:26:20.000Z</value></Data><Data name="street1"><value>THE EMBARCADERO</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407314287894,37.807385017158
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>10TH ST/POLK ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:46:08.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{5AE69BC3-4D5D-40DE-9F7E-1CCD298A2AB8}</value></Data><Data name="objectid"><value>26</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30746000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.41751468657,37.776545785908
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{4911748B-44BB-40DB-A495-5541A03BD5EE}</value></Data><Data name="objectid"><value>23</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24403000</value></Data><Data name="created_date"><value>2015-09-22T21:08:13.000Z</value></Data><Data name="street1"><value>DUBOCE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422378034304,37.769872641916
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>10TH ST/POLK ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{C352AF2E-D0F9-4378-BF2E-BD3B3EC2476B}</value></Data><Data name="objectid"><value>7</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>30746000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.41751468657,37.776545785908
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>29TH ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{090522AF-23A5-4C2E-9A9A-30A324860C6D}</value></Data><Data name="objectid"><value>47</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21349000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>SAN JOSE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422682666776,37.743947130177
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>7</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>BAKER ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-10-06T23:25:30.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{7DECF5D9-CB67-4130-AD77-40183712F645}</value></Data><Data name="objectid"><value>971</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>26350000</value></Data><Data name="created_date"><value>2017-10-06T23:23:42.000Z</value></Data><Data name="street1"><value>FELL ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.440935010306,37.77364023855
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CLEMENTINA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:33:51.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{A642ADD5-74AC-4098-84DE-E49C78CB9D4B}</value></Data><Data name="objectid"><value>324</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23273000</value></Data><Data name="created_date"><value>2017-05-22T17:33:19.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410623943324,37.775433297547
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GROVE ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:46:35.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{90728BA9-C852-48B0-B859-8C0514D4A828}</value></Data><Data name="objectid"><value>41</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24437000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>POLK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.418239805146,37.778494009305
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CHURCH ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{51EE89DE-DB44-4FC2-B0B7-7CC1D81B5116}</value></Data><Data name="objectid"><value>69</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>25723000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>17TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.428521973828,37.762894755982
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>TEHAMA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:34:30.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{90F660D5-C3A7-4929-A1C9-934433D51ACD}</value></Data><Data name="objectid"><value>325</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24298000</value></Data><Data name="created_date"><value>2017-05-22T17:33:59.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.411082656287,37.775798748636
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MCALLISTER ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{416D32E5-723C-4E80-AF3A-0061F979CF0D}</value></Data><Data name="objectid"><value>70</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25967000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>WEBSTER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.430060482804,37.778855872208
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>WASHINGTON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T22:01:40.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{413C9A93-4953-4C26-8AC6-C87AD065BF9A}</value></Data><Data name="objectid"><value>655</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27575000</value></Data><Data name="created_date"><value>2017-07-26T22:00:54.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.459400838162,37.788410160135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CESAR CHAVEZ</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{457CD722-10E7-4513-AD34-8FA8ADFD9B41}</value></Data><Data name="objectid"><value>32</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21177000</value></Data><Data name="created_date"><value>2015-11-12T19:20:54.000Z</value></Data><Data name="street1"><value>FOLSOM</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413682056196,37.748260272121
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FILLMORE ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{62D7C2DA-8921-4834-8E19-4DF0E868EAA7}</value></Data><Data name="objectid"><value>43</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>26764000</value></Data><Data name="created_date"><value>2015-12-03T22:43:53.000Z</value></Data><Data name="street1"><value>BAY ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.436706567937,37.802633369685
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>8</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CESAR CHAVEZ ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-22T23:48:51.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{FD6CEE19-5A24-417E-A8EC-13B8909299DB}</value></Data><Data name="objectid"><value>968</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21897000</value></Data><Data name="created_date"><value>2017-08-22T23:47:40.000Z</value></Data><Data name="street1"><value>GUERRERO ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.42250057659,37.748018391914
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VAN NESS AVE</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{E18EC37F-5D80-485A-897F-187738E109E0}</value></Data><Data name="objectid"><value>1</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>SW, NE</value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30748000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.419268830048,37.775151966009
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OAK ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{1BA3F8E8-7D87-4B85-AFEC-F5258B2EDF30}</value></Data><Data name="objectid"><value>3</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>N</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>26319000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>BAKER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.440748374351,37.772717763705
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2006</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OAK</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{3C759FD6-DA96-480B-9D54-4B3325015E4E}</value></Data><Data name="objectid"><value>6</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>SE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>26027000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>SCOTT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.435764725359,37.77335060346
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HAYES ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:29.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{1E7CD99D-D144-49F8-B82A-5FF040F8E1D6}</value></Data><Data name="objectid"><value>45</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24436000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>POLK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.418056391234,37.777516603048
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>LAKE ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T22:00:03.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{9BCBEE47-415F-45E2-84E1-31C435400DA7}</value></Data><Data name="objectid"><value>653</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27578000</value></Data><Data name="created_date"><value>2017-07-26T22:00:03.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.45929275097,37.786918812888
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HOWARD ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{45040599-2933-442B-BDC5-7DACC1ECD9E6}</value></Data><Data name="objectid"><value>50</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24265000</value></Data><Data name="created_date"><value>2016-01-11T23:33:51.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.409400220047,37.777982032387
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{62E3E767-C821-4492-ADA2-061D23934D48}</value></Data><Data name="objectid"><value>20</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25853000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MCCOPPIN ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422539567844,37.771599994452
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>TOWNSEND ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-05-09T20:26:32.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{095493B7-38FC-44B2-8BA2-5B350420598A}</value></Data><Data name="objectid"><value>22</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23592000</value></Data><Data name="created_date"><value>2016-05-09T20:25:23.000Z</value></Data><Data name="street1"><value>THE EMBARCADERO</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.388310829073,37.781806785799
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>7</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HARRISON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-22T23:42:32.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{9A42DD3A-0A81-4165-9B80-8965468F1186}</value></Data><Data name="objectid"><value>967</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24201000</value></Data><Data name="created_date"><value>2017-08-22T23:41:09.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.408529544023,37.773764645751
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value>5</value></Data><Data name="street2"><value>HARRISON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:18:22.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{91E2A380-848F-4BA3-B565-5DE0F8D8B095}</value></Data><Data name="objectid"><value>39</value></Data><Data name="update_yr"><value>2017</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24228000</value></Data><Data name="created_date"><value>2016-12-15T22:59:30.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413398451401,37.769506948919
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:24.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{5FFA3AC2-E058-4B79-9B43-9A1F5038F747}</value></Data><Data name="objectid"><value>1281</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30755000</value></Data><Data name="created_date"><value>2017-12-13T22:28:00.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422632914862,37.77250770905
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HOWARD ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:32:32.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{A9AB89C7-F6C3-4D17-B6A8-76D12D570FEA}</value></Data><Data name="objectid"><value>323</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24299000</value></Data><Data name="created_date"><value>2017-05-22T17:32:12.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.411619327458,37.776226301115
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>ISIS ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-15T23:49:13.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{EA1409CE-8925-450C-90D9-1EECB1626A70}</value></Data><Data name="objectid"><value>59</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>33028000</value></Data><Data name="created_date"><value>2016-12-15T23:48:37.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414833974916,37.769565524951
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>WALLER ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{86F583D0-CDA6-4DFC-97AF-A85DC8A6FC1B}</value></Data><Data name="objectid"><value>42</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>25991000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>STEINER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431917549533,37.770969316206
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>LAKE ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T22:00:17.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{D329EF4D-3FC8-419F-BDF1-D822C461597D}</value></Data><Data name="objectid"><value>641</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27578000</value></Data><Data name="created_date"><value>2017-07-26T21:15:10.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.45929275097,37.786918812888
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HOWARD ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:32:10.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{EAD37D50-843A-49AD-AD3C-278D00866D36}</value></Data><Data name="objectid"><value>322</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24299000</value></Data><Data name="created_date"><value>2017-05-22T17:31:18.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.411619327458,37.776226301115
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CESAR CHAVEZ ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{87358FCC-FE23-4DF3-833B-C8C179A506AF}</value></Data><Data name="objectid"><value>34</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>20824000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>KANSAS ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.402074844467,37.749401622601
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>STANYAN ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:30.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{B8F4F355-4FC6-4C85-9617-AF87B962D48B}</value></Data><Data name="objectid"><value>30</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>26440000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>PAGE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.453739456502,37.770102968894
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>DUBOCE AVE</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>CROSSBIKE</value></Data><Data name="globalid"><value>{7642D3F8-E95C-4B34-B92E-E7E15655F9CA}</value></Data><Data name="objectid"><value>64</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30758000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.42632266313,37.769607488123
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VAN NESS AVE</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{ABD514AA-122E-4378-B468-A1C302D35BD5}</value></Data><Data name="objectid"><value>56</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>30748000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.419268830048,37.775151966009
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T18:11:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{C9CBB60D-0CFA-4278-8498-7C13861E81C9}</value></Data><Data name="objectid"><value>334</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24262000</value></Data><Data name="created_date"><value>2017-05-22T18:11:44.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407855274156,37.77675105422
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CABRILLO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-07-26T21:31:27.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{4C127021-414D-4F88-9CDC-3DD682018D4C}</value></Data><Data name="objectid"><value>644</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>27211000</value></Data><Data name="created_date"><value>2017-07-26T21:30:16.000Z</value></Data><Data name="street1"><value>ARGUELLO BLVD</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.458476123181,37.775623368764
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2008</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MASONIC AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:30.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{5B1A60E7-15CC-4E23-BC15-E41CE537A844}</value></Data><Data name="objectid"><value>35</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>26347000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>PANHANDLE PATH</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.445889275544,37.77287061732
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HOWARD ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T18:08:25.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{38F4B915-B5A8-4980-BB2D-1FD6EE6B7DA3}</value></Data><Data name="objectid"><value>332</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24265000</value></Data><Data name="created_date"><value>2017-05-22T18:07:44.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.409400220047,37.777982032387
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{AE2AEBF6-FAC1-46A4-AF76-62D3A82687F1}</value></Data><Data name="objectid"><value>57</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>SE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24403000</value></Data><Data name="created_date"><value>2015-09-22T21:06:58.000Z</value></Data><Data name="street1"><value>DUBOCE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422378034304,37.769872641916
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>THE EMBARCADERO</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{5F82B1A4-486C-47EA-8610-86F73EB761A9}</value></Data><Data name="objectid"><value>46</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>34013000</value></Data><Data name="created_date"><value>2016-03-01T22:22:57.000Z</value></Data><Data name="street1"><value>SANSOME ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.403448941354,37.805189849779
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>12</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>DIVISION ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-22T18:08:31.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{4C54A450-4B90-4B85-A053-70132A3886BD}</value></Data><Data name="objectid"><value>54</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>4</value></Data><Data name="cnn"><value>33614000</value></Data><Data name="created_date"><value>2016-12-22T18:06:30.000Z</value></Data><Data name="street1"><value>9TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.406226576091,37.769467490599
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MARKET ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{8B251107-0903-475B-9784-793794801ABD}</value></Data><Data name="objectid"><value>12</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25878000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>14TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.428670387295,37.767739778754
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>7TH ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{5EF3C828-C515-4809-98C3-D27135076971}</value></Data><Data name="objectid"><value>52</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30742000</value></Data><Data name="created_date"><value>2015-08-12T16:34:01.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.412525470343,37.78048345714
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MARKET ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{FB949328-0B86-4F1C-9E53-790E9434F286}</value></Data><Data name="objectid"><value>5</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25878000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>14TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.428670387295,37.767739778754
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>8TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-02T00:22:38.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{B089AE72-1EC8-4134-87C1-CF0E459550C0}</value></Data><Data name="objectid"><value>19</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24429000</value></Data><Data name="created_date"><value>2016-12-01T23:53:56.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414754436533,37.778724374107
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>7</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value>0</value></Data><Data name="street2"><value>FELL ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-13T22:34:25.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{21C77CC7-122B-40D5-837E-F93262FF1E54}</value></Data><Data name="objectid"><value>1283</value></Data><Data name="update_yr"><value>0</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>26030000</value></Data><Data name="created_date"><value>2017-12-13T22:32:47.000Z</value></Data><Data name="street1"><value>SCOTT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.43595354677,37.774281621129
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>3</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>TREAT AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-05-09T21:44:12.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{EC38E964-1F8D-4A3B-A4CC-727CF0CFC795}</value></Data><Data name="objectid"><value>62</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24055000</value></Data><Data name="created_date"><value>2016-05-09T21:23:45.000Z</value></Data><Data name="street1"><value>HARRISON ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.4131184556,37.76545255198
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2011</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>11TH ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{656CD762-40F1-4DB7-BB7C-C19C5DD6C063}</value></Data><Data name="objectid"><value>44</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30747000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.418696814128,37.775591461157
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>12</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>DIVISION ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-12-22T18:08:32.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>PROTECTED INTERSECTION</value></Data><Data name="globalid"><value>{C3D421B5-C808-47BA-9472-8C9F29C6D915}</value></Data><Data name="objectid"><value>36</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>33614000</value></Data><Data name="created_date"><value>2016-12-22T18:07:26.000Z</value></Data><Data name="street1"><value>9TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.406226576091,37.769467490599
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value>5</value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-05-22T17:17:38.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{FD098BE4-DDC5-4401-8B78-1446FF3EBC30}</value></Data><Data name="objectid"><value>25</value></Data><Data name="update_yr"><value>2017</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24349000</value></Data><Data name="created_date"><value>2016-12-15T23:48:00.000Z</value></Data><Data name="street1"><value>13TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.415590229257,37.769596104226
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HOWARD ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{D3BB93E1-CCB6-4933-A432-90E189E2CCAF}</value></Data><Data name="objectid"><value>29</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24353000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>11TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.415574613403,37.773105480038
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>8</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>30TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-08-22T23:52:08.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{49B46117-A563-4CC5-966E-06F703A0155D}</value></Data><Data name="objectid"><value>969</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>21890000</value></Data><Data name="created_date"><value>2017-08-22T23:51:09.000Z</value></Data><Data name="street1"><value>SAN JOSE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.423298773714,37.742299474655
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:53.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{6A794D9F-85A9-4686-AC13-29D03CA82B64}</value></Data><Data name="objectid"><value>55</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25853000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MCCOPPIN ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422539568979,37.771599994452
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>10</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>THE EMBARCADERO</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-10-13T16:33:28.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{14C51D0E-0C65-4B45-9D5F-7D258DDBF7D8}</value></Data><Data name="objectid"><value>972</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24819000</value></Data><Data name="created_date"><value>2017-10-13T16:30:38.000Z</value></Data><Data name="street1"><value>BATTERY ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.401986643279,37.80407719831
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>TOWNSEND ST</value></Data><Data name="last_edited_user"><value>MTA</value></Data><Data name="last_edited_date"><value>2016-04-29T22:44:54.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{7F3CB7D9-E039-46CE-9B1B-A5CC35DD4DE1}</value></Data><Data name="objectid"><value>67</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>5</value></Data><Data name="cnn"><value>23871000</value></Data><Data name="created_date"><value>2015-12-23T18:11:31.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.403890912588,37.7700678112
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GREAT HWY</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2016-05-10T00:11:52.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{CD70BEDB-252B-40AF-BDF4-BBFBF4FDC358}</value></Data><Data name="objectid"><value>8</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>32904000</value></Data><Data name="created_date"><value>2016-05-10T00:06:30.000Z</value></Data><Data name="street1"><value>SLOAT ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.506730652266,37.735474692571
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>2</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-18T19:17:46.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{AD331AF1-7364-4DA6-BC27-525DE52CDC2B}</value></Data><Data name="objectid"><value>16</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25909000</value></Data><Data name="created_date"><value>2016-02-18T17:10:33.000Z</value></Data><Data name="street1"><value>PAGE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.424069749573,37.773880193135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GOLDEN GATE AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-20T17:59:25.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{0AA72E58-3469-4979-B9F5-7A40E634A54C}</value></Data><Data name="objectid"><value>1287</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24922000</value></Data><Data name="created_date"><value>2017-12-20T17:57:05.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410305241845,37.782235520694
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CHARLES J BRENHAM PL</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-28T20:17:56.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{818BD36F-6319-4418-A62F-84E6EE01D670}</value></Data><Data name="objectid"><value>1616</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30045000</value></Data><Data name="created_date"><value>2017-12-28T20:17:46.000Z</value></Data><Data name="street1"><value>MCALLISTER ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413161264093,37.780998727483
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>2</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-18T19:17:41.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{A62E40AA-5C97-4EF6-9B61-4D39DB194F07}</value></Data><Data name="objectid"><value>4</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25909000</value></Data><Data name="created_date"><value>2016-02-18T17:09:42.000Z</value></Data><Data name="street1"><value>PAGE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.424069749573,37.773880193135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>MARKET ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-27T23:40:51.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{BBCF8928-F228-4268-BFF3-0CCC6F20370C}</value></Data><Data name="objectid"><value>1613</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25878000</value></Data><Data name="created_date"><value>2017-12-27T23:40:30.000Z</value></Data><Data name="street1"><value>14TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.428670387295,37.767739778754
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>9</value></Data><Data name="install_yr"><value>2015</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>11TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-21T22:18:48.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{BF5228D8-873E-4E2E-9F4B-FBC07902E804}</value></Data><Data name="objectid"><value>17</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24216000</value></Data><Data name="created_date"><value>2016-12-15T22:47:43.000Z</value></Data><Data name="street1"><value>DIVISION ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410944300976,37.769416135446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>2</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-18T19:17:42.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{AB0411AD-630D-4D6A-BA53-7BE22D42AD21}</value></Data><Data name="objectid"><value>38</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value>W, E</value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25909000</value></Data><Data name="created_date"><value>2016-02-18T17:08:35.000Z</value></Data><Data name="street1"><value>PAGE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.424069749573,37.773880193135
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GOLDEN GATE AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-20T17:59:24.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{6CE5CEE1-E6C0-49BA-9EA7-A70CABC73D51}</value></Data><Data name="objectid"><value>1285</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24922000</value></Data><Data name="created_date"><value>2017-12-20T17:55:57.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410305241845,37.782235520694
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>6</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>NORTH POINT ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2017-12-28T20:09:41.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{E7B9C01D-CFDF-464E-845B-2543AE9E1C67}</value></Data><Data name="objectid"><value>1284</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25474000</value></Data><Data name="created_date"><value>2017-12-13T22:35:40.000Z</value></Data><Data name="street1"><value>THE EMBARCADERO</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407314287894,37.807385017158
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>16TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:45.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{7ECAB3A6-C64F-46BD-80C7-51E9C4AFD3C2}</value></Data><Data name="objectid"><value>1605</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>6</value></Data><Data name="cnn"><value>25804000</value></Data><Data name="created_date"><value>2017-12-27T23:34:00.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.433087686694,37.764200655918
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CASTRO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:28:12.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{12C4780D-076F-4DB8-BD38-119ED40C5068}</value></Data><Data name="objectid"><value>1601</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25814000</value></Data><Data name="created_date"><value>2017-12-27T23:31:36.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.435201178433,37.762675649157
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>15TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:27.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{B6EE9D55-FF62-418A-8E8E-0D96D71C9FCF}</value></Data><Data name="objectid"><value>1608</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25880000</value></Data><Data name="created_date"><value>2017-12-27T23:36:44.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.430837610323,37.766018673446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>DOLORES ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:26:09.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{AE7671A6-4113-4275-BDDD-D5FB7064F173}</value></Data><Data name="objectid"><value>1614</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25865000</value></Data><Data name="created_date"><value>2017-12-27T23:41:44.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.426871505951,37.769047332404
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>15TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:26:51.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{30003F2E-3B65-41E8-874B-AED28A9E7989}</value></Data><Data name="objectid"><value>1611</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25880000</value></Data><Data name="created_date"><value>2017-12-27T23:38:52.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.430837610323,37.766018673446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>UNNAMED RD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:29:44.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{8FB6B3C5-AF9D-4CFA-879E-620398EA6D89}</value></Data><Data name="objectid"><value>1921</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>54354000</value></Data><Data name="created_date"><value>2018-01-17T19:20:37.000Z</value></Data><Data name="street1"><value>4TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.39076941168,37.766378837699
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SANCHEZ ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:26:36.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{0C9D9CCB-B14E-4A91-8DC8-51CEF2F92705}</value></Data><Data name="objectid"><value>1612</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25806000</value></Data><Data name="created_date"><value>2017-12-27T23:38:52.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431038687354,37.765872928982
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SANCHEZ ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:15.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{17B37D34-D164-4702-B345-9FC914EDD6C2}</value></Data><Data name="objectid"><value>1607</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25806000</value></Data><Data name="created_date"><value>2017-12-27T23:36:41.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431038687354,37.765872928982
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>15TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:28.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{70755031-996D-47A5-8527-2312CB770827}</value></Data><Data name="objectid"><value>1609</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25880000</value></Data><Data name="created_date"><value>2017-12-27T23:38:19.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.430837610323,37.766018673446
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>CASTRO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:28:16.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{808F5ECD-7FFC-4967-94B3-85FA1A3E63E7}</value></Data><Data name="objectid"><value>1602</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25814000</value></Data><Data name="created_date"><value>2017-12-27T23:32:33.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.435201178433,37.762675649157
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>16TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:53.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{E0B2BD8E-9EEE-4C89-957B-7EBFCC2949DB}</value></Data><Data name="objectid"><value>1604</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25804000</value></Data><Data name="created_date"><value>2017-12-27T23:33:38.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.433087686694,37.764200655918
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SANCHEZ ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:15.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{F2BDC74A-4706-4CF8-9A5C-3130B000EF6D}</value></Data><Data name="objectid"><value>1610</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25806000</value></Data><Data name="created_date"><value>2017-12-27T23:38:19.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.431038687354,37.765872928982
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>16TH ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-01-17T19:27:53.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{6B2AB70E-93A1-4541-982F-162DE023D9D1}</value></Data><Data name="objectid"><value>1603</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>25804000</value></Data><Data name="created_date"><value>2017-12-27T23:33:15.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.433087686694,37.764200655918
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2017</value></Data><Data name="update_mo"><value>1</value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:52:38.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{B39F51D1-9206-4FCC-AD76-AF1DEAE32269}</value></Data><Data name="objectid"><value>333</value></Data><Data name="update_yr"><value>2018</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24262000</value></Data><Data name="created_date"><value>2017-05-22T18:08:51.000Z</value></Data><Data name="street1"><value>7TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407855274156,37.77675105422
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T18:09:46.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{ED3A0F77-FE77-4F4E-B36D-E56681D01E54}</value></Data><Data name="objectid"><value>2250</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23936000</value></Data><Data name="created_date"><value>2018-03-19T18:08:51.000Z</value></Data><Data name="street1"><value>FALMOUTH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.404444464944,37.779445280435
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>LANGTON ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:49:07.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{53BE2597-6FBA-4A8F-9307-D4BA6E3CD87A}</value></Data><Data name="objectid"><value>2247</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24274000</value></Data><Data name="created_date"><value>2018-03-19T17:48:14.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.408393326758,37.776323332082
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HALLAM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:50:13.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{31D6C193-198F-4697-BB37-00E3EB939483}</value></Data><Data name="objectid"><value>2246</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24275000</value></Data><Data name="created_date"><value>2018-03-19T17:47:45.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.408858963655,37.775958174419
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:40:10.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{A60BA5F6-81F7-420E-A418-78F11D47444D}</value></Data><Data name="objectid"><value>2244</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24234000</value></Data><Data name="created_date"><value>2018-03-19T17:39:31.000Z</value></Data><Data name="street1"><value>DORE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.412238220073,37.773289725601
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>JUNIPER ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:37:17.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{1771D05B-ECB7-48B3-BBCB-556754CA84EF}</value></Data><Data name="objectid"><value>2242</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24244000</value></Data><Data name="created_date"><value>2018-03-19T17:32:21.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.413432832645,37.772347493933
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value>1</value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:43:49.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{CD29FC37-D33D-4EBE-BB2B-2417065D12CD}</value></Data><Data name="objectid"><value>24</value></Data><Data name="update_yr"><value>2018</value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24272000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410075993465,37.774996684737
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>RODGERS ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:49:15.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{C1C415F2-CF5C-4D84-828B-8D7F15215096}</value></Data><Data name="objectid"><value>2245</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24269000</value></Data><Data name="created_date"><value>2018-03-19T17:47:10.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.409494701315,37.775455950438
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>SHERMAN ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:59:18.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{B0F60A89-29D5-4BD2-83CC-47344EB96F93}</value></Data><Data name="objectid"><value>2249</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24264000</value></Data><Data name="created_date"><value>2018-03-19T17:58:39.000Z</value></Data><Data name="street1"><value>FOLSOM ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.407027965109,37.777404578384
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:37:31.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{F766A7DB-3F3E-44BC-8040-79C934DB151B}</value></Data><Data name="objectid"><value>2243</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24233000</value></Data><Data name="created_date"><value>2018-03-19T17:36:50.000Z</value></Data><Data name="street1"><value>10TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.412837440025,37.772817104151
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T17:32:05.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{A9D986D5-6FFF-436C-A97D-50948063B4B2}</value></Data><Data name="objectid"><value>2241</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>24238000</value></Data><Data name="created_date"><value>2018-03-19T17:18:32.000Z</value></Data><Data name="street1"><value>11TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414039920818,37.771868651218
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>1</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-03-19T18:09:16.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{D4C77B7E-1D4F-4F38-AB99-6AD7F6839F6F}</value></Data><Data name="objectid"><value>2248</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23926000</value></Data><Data name="created_date"><value>2018-03-19T17:56:44.000Z</value></Data><Data name="street1"><value>COLUMBIA SQUARE ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.406449549312,37.777861483823
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2012</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>VALENCIA ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T17:33:56.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>JUGHANDLE</value></Data><Data name="globalid"><value>{87B2440E-0CE8-4098-B60D-C6CA4F064072}</value></Data><Data name="objectid"><value>2256</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30755000</value></Data><Data name="created_date"><value>2018-04-25T17:33:28.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.422632914862,37.77250770905
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GUERRERO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T19:55:58.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{5F9C2498-C5D1-42ED-A8CC-F23ABFB5B594}</value></Data><Data name="objectid"><value>2562</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>30757000</value></Data><Data name="created_date"><value>2018-04-25T19:54:51.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.424865814696,37.770752689324
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T20:01:47.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{4F4F9A6D-EB88-499F-82BF-B62AF07CB287}</value></Data><Data name="objectid"><value>2564</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30756000</value></Data><Data name="created_date"><value>2018-04-25T20:01:11.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.423409985193,37.771890535111
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>HYDE ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-24T16:48:44.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{8BDDFEF5-90E2-4579-AA9A-05A0BB0E0744}</value></Data><Data name="objectid"><value>2253</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24933000</value></Data><Data name="created_date"><value>2018-04-24T16:48:10.000Z</value></Data><Data name="street1"><value>TURK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.415707087482,37.782589978301
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T17:34:19.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{BD53FA46-5B07-4572-8DBF-AE78BB410B07}</value></Data><Data name="objectid"><value>51</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>3</value></Data><Data name="cnn"><value>30756000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.423409985193,37.771890535111
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2013</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>OCTAVIA BLVD</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T17:38:48.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{6F48AB77-3FA7-4561-B29A-DFD0257C4402}</value></Data><Data name="objectid"><value>2561</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>35006000</value></Data><Data name="created_date"><value>2018-04-25T17:34:52.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.423632738747,37.771721905964
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>POLK ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-24T16:49:50.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{A3FFB80C-A6E6-4CDB-9115-CD7BBF4F15FB}</value></Data><Data name="objectid"><value>2254</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>25175000</value></Data><Data name="created_date"><value>2018-04-24T16:49:22.000Z</value></Data><Data name="street1"><value>TURK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.419006488636,37.782174215355
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>GUERRERO ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T19:56:41.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{FC1B3D52-28E4-47E2-B1FD-7787FA2EB317}</value></Data><Data name="objectid"><value>2563</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>30757000</value></Data><Data name="created_date"><value>2018-04-25T19:56:09.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.424865814696,37.770752689324
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>3</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-18T20:45:36.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>MIXING ZONE</value></Data><Data name="globalid"><value>{2FF1135A-D512-4273-B232-D1A9F4BDC1EF}</value></Data><Data name="objectid"><value>2251</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24238000</value></Data><Data name="created_date"><value>2018-04-18T20:44:52.000Z</value></Data><Data name="street1"><value>11TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.414039920818,37.771868651218
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>FOLSOM ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-24T16:59:19.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{571E2467-39BC-41F0-8821-CB2414711CD5}</value></Data><Data name="objectid"><value>2255</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>24272000</value></Data><Data name="created_date"><value>2018-04-24T16:58:07.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.410075993465,37.774996684737
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>5</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>BRANNAN ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-05-08T16:58:50.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>TWO-STAGE LEFT</value></Data><Data name="globalid"><value>{EF1C35B3-3D72-4869-8B7A-84B1BA742E43}</value></Data><Data name="objectid"><value>2881</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>23872000</value></Data><Data name="created_date"><value>2018-05-08T16:51:26.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.405437947258,37.771301297692
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value></value></Data><Data name="install_yr"><value>2014</value></Data><Data name="update_mo"><value>4</value></Data><Data name="street2"><value>MARKET ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T19:51:52.000Z</value></Data><Data name="created_user"><value></value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{0317AD82-BF66-4C36-A3DD-17E51C6D1B25}</value></Data><Data name="objectid"><value>58</value></Data><Data name="update_yr"><value>2018</value></Data><Data name="corner"><value>NE</value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>30758000</value></Data><Data name="created_date"><value></value></Data><Data name="street1"><value>DUBOCE AVE</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.42632266313,37.769607488123
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>BRANNAN ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-05-08T16:58:52.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE SIGNAL</value></Data><Data name="globalid"><value>{95AB9E30-9ABE-4400-933E-09353F61C380}</value></Data><Data name="objectid"><value>2882</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>2</value></Data><Data name="cnn"><value>23872000</value></Data><Data name="created_date"><value>2018-05-08T16:52:14.000Z</value></Data><Data name="street1"><value>8TH ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.405437947258,37.771301297692
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>11</value></Data><Data name="install_yr"><value>2016</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>DUBOCE AVE</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-25T19:52:31.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>INTERSECTION SHARROW</value></Data><Data name="globalid"><value>{320FC28A-0D81-4F8C-9B45-E0625DDAF4A8}</value></Data><Data name="objectid"><value>1615</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>8</value></Data><Data name="cnn"><value>30758000</value></Data><Data name="created_date"><value>2017-12-27T23:43:07.000Z</value></Data><Data name="street1"><value>MARKET ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.42632266313,37.769607488123
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="install_mo"><value>4</value></Data><Data name="install_yr"><value>2018</value></Data><Data name="update_mo"><value></value></Data><Data name="street2"><value>JONES ST</value></Data><Data name="last_edited_user"><value>JENWONG</value></Data><Data name="last_edited_date"><value>2018-04-24T16:47:43.000Z</value></Data><Data name="created_user"><value>JENWONG</value></Data><Data name="descript"><value>BIKE BOX</value></Data><Data name="globalid"><value>{3A873EFD-164A-4D99-8CC5-FA8C67A25EFC}</value></Data><Data name="objectid"><value>2252</value></Data><Data name="update_yr"><value></value></Data><Data name="corner"><value></value></Data><Data name="count"><value>1</value></Data><Data name="cnn"><value>24923000</value></Data><Data name="created_date"><value>2018-04-24T16:46:27.000Z</value></Data><Data name="street1"><value>TURK ST</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      -122.412424961594,37.783009023913
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>

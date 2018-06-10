@@ -1,0 +1,1281 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "usjh-7855",
+      "name" : "MTA.bikewaynetwork_pointfeatures_data",
+      "averageRating" : 0,
+      "createdAt" : 1513387638,
+      "description" : "",
+      "displayType" : "geoRows",
+      "downloadCount" : 277,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1527713872,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 27509605,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1513387641,
+      "publicationGroup" : 14716986,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1527712931,
+      "rowsUpdatedBy" : "xiq3-38kp",
+      "tableId" : 14716986,
+      "totalTimesRated" : 0,
+      "viewCount" : 0,
+      "viewLastModified" : 1513455089,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 335361242,
+        "name" : "the_geom",
+        "dataTypeName" : "point",
+        "fieldName" : "the_geom",
+        "position" : 1,
+        "renderTypeName" : "point",
+        "tableColumnId" : 58278633,
+        "cachedContents" : {
+          "null" : "0",
+          "top" : [ {
+            "item" : {
+              "coordinates" : [ -122.433087686694, 37.764200655918 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.424069749573, 37.773880193135 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.430837610323, 37.766018673446 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.42632266313, 37.769607488123 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.422632914862, 37.77250770905 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.41751468657, 37.776545785908 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.407314287894, 37.807385017158 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.428670387295, 37.767739778754 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.431038687354, 37.765872928982 ],
+              "type" : "Point"
+            },
+            "count_1" : "3"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.422378034304, 37.769872641916 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.459057775685, 37.783831546196 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.422539567844, 37.771599994452 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.415590229257, 37.769596104226 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.419268830048, 37.775151966009 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.424865814696, 37.770752689324 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.45926898918, 37.786628242039 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.435201178433, 37.762675649157 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.45929275097, 37.786918812888 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.423409985193, 37.771890535111 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          }, {
+            "item" : {
+              "coordinates" : [ -122.413398451401, 37.769506948919 ],
+              "type" : "Point"
+            },
+            "count_1" : "2"
+          } ],
+          "not_null" : "153",
+          "cardinality" : "112"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361243,
+        "name" : "OBJECTID",
+        "dataTypeName" : "number",
+        "fieldName" : "objectid",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278634,
+        "cachedContents" : {
+          "largest" : "2882",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2253",
+            "count_1" : "1"
+          }, {
+            "item" : "1616",
+            "count_1" : "1"
+          }, {
+            "item" : "2252",
+            "count_1" : "1"
+          }, {
+            "item" : "963",
+            "count_1" : "1"
+          }, {
+            "item" : "21",
+            "count_1" : "1"
+          }, {
+            "item" : "8",
+            "count_1" : "1"
+          }, {
+            "item" : "1613",
+            "count_1" : "1"
+          }, {
+            "item" : "5",
+            "count_1" : "1"
+          }, {
+            "item" : "641",
+            "count_1" : "1"
+          }, {
+            "item" : "34",
+            "count_1" : "1"
+          }, {
+            "item" : "649",
+            "count_1" : "1"
+          }, {
+            "item" : "643",
+            "count_1" : "1"
+          }, {
+            "item" : "2248",
+            "count_1" : "1"
+          }, {
+            "item" : "2251",
+            "count_1" : "1"
+          }, {
+            "item" : "330",
+            "count_1" : "1"
+          }, {
+            "item" : "1602",
+            "count_1" : "1"
+          }, {
+            "item" : "323",
+            "count_1" : "1"
+          }, {
+            "item" : "648",
+            "count_1" : "1"
+          }, {
+            "item" : "1287",
+            "count_1" : "1"
+          }, {
+            "item" : "38",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "1",
+          "cardinality" : "153"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361244,
+        "name" : "CNN",
+        "dataTypeName" : "number",
+        "fieldName" : "cnn",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278635,
+        "cachedContents" : {
+          "largest" : "54354000",
+          "null" : "0",
+          "top" : [ {
+            "item" : "30746000",
+            "count_1" : "4"
+          }, {
+            "item" : "30755000",
+            "count_1" : "3"
+          }, {
+            "item" : "30758000",
+            "count_1" : "3"
+          }, {
+            "item" : "25878000",
+            "count_1" : "3"
+          }, {
+            "item" : "25909000",
+            "count_1" : "3"
+          }, {
+            "item" : "25474000",
+            "count_1" : "3"
+          }, {
+            "item" : "25804000",
+            "count_1" : "3"
+          }, {
+            "item" : "25880000",
+            "count_1" : "3"
+          }, {
+            "item" : "25806000",
+            "count_1" : "3"
+          }, {
+            "item" : "23872000",
+            "count_1" : "2"
+          }, {
+            "item" : "24299000",
+            "count_1" : "2"
+          }, {
+            "item" : "33614000",
+            "count_1" : "2"
+          }, {
+            "item" : "24403000",
+            "count_1" : "2"
+          }, {
+            "item" : "25814000",
+            "count_1" : "2"
+          }, {
+            "item" : "24922000",
+            "count_1" : "2"
+          }, {
+            "item" : "30748000",
+            "count_1" : "2"
+          }, {
+            "item" : "30757000",
+            "count_1" : "2"
+          }, {
+            "item" : "25853000",
+            "count_1" : "2"
+          }, {
+            "item" : "27570000",
+            "count_1" : "2"
+          }, {
+            "item" : "30756000",
+            "count_1" : "2"
+          } ],
+          "not_null" : "153",
+          "smallest" : "20247000",
+          "cardinality" : "112"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361245,
+        "name" : "CORNER",
+        "dataTypeName" : "text",
+        "fieldName" : "corner",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278636,
+        "cachedContents" : {
+          "largest" : "W, E",
+          "null" : "138",
+          "top" : [ {
+            "item" : "NE",
+            "count_1" : "7"
+          }, {
+            "item" : "SW, NE",
+            "count_1" : "2"
+          }, {
+            "item" : "SE",
+            "count_1" : "2"
+          }, {
+            "item" : "SW",
+            "count_1" : "1"
+          }, {
+            "item" : "W, E",
+            "count_1" : "1"
+          }, {
+            "item" : "N",
+            "count_1" : "1"
+          }, {
+            "item" : "E",
+            "count_1" : "1"
+          } ],
+          "not_null" : "15",
+          "smallest" : "E",
+          "cardinality" : "7"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361246,
+        "name" : "STREET1",
+        "dataTypeName" : "text",
+        "fieldName" : "street1",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278637,
+        "cachedContents" : {
+          "largest" : "WEBSTER ST",
+          "null" : "0",
+          "top" : [ {
+            "item" : "MARKET ST",
+            "count_1" : "35"
+          }, {
+            "item" : "8TH ST",
+            "count_1" : "13"
+          }, {
+            "item" : "ARGUELLO BLVD",
+            "count_1" : "12"
+          }, {
+            "item" : "7TH ST",
+            "count_1" : "7"
+          }, {
+            "item" : "FOLSOM ST",
+            "count_1" : "7"
+          }, {
+            "item" : "13TH ST",
+            "count_1" : "6"
+          }, {
+            "item" : "THE EMBARCADERO",
+            "count_1" : "4"
+          }, {
+            "item" : "14TH ST",
+            "count_1" : "4"
+          }, {
+            "item" : "PAGE ST",
+            "count_1" : "4"
+          }, {
+            "item" : "DUBOCE AVE",
+            "count_1" : "4"
+          }, {
+            "item" : "11TH ST",
+            "count_1" : "4"
+          }, {
+            "item" : "SCOTT ST",
+            "count_1" : "4"
+          }, {
+            "item" : "CARGO WAY",
+            "count_1" : "3"
+          }, {
+            "item" : "TURK ST",
+            "count_1" : "3"
+          }, {
+            "item" : "SAN JOSE AVE",
+            "count_1" : "3"
+          }, {
+            "item" : "MCALLISTER ST",
+            "count_1" : "3"
+          }, {
+            "item" : "FELL ST",
+            "count_1" : "2"
+          }, {
+            "item" : "MCCOPPIN ST",
+            "count_1" : "2"
+          }, {
+            "item" : "POLK ST",
+            "count_1" : "2"
+          }, {
+            "item" : "9TH ST",
+            "count_1" : "2"
+          } ],
+          "not_null" : "153",
+          "smallest" : "10TH ST",
+          "cardinality" : "48"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361247,
+        "name" : "STREET2",
+        "dataTypeName" : "text",
+        "fieldName" : "street2",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278638,
+        "cachedContents" : {
+          "largest" : "WASHINGTON ST",
+          "null" : "0",
+          "top" : [ {
+            "item" : "FOLSOM ST",
+            "count_1" : "13"
+          }, {
+            "item" : "VALENCIA ST",
+            "count_1" : "7"
+          }, {
+            "item" : "HOWARD ST",
+            "count_1" : "5"
+          }, {
+            "item" : "MARKET ST",
+            "count_1" : "4"
+          }, {
+            "item" : "HARRISON ST",
+            "count_1" : "3"
+          }, {
+            "item" : "OCTAVIA BLVD",
+            "count_1" : "3"
+          }, {
+            "item" : "15TH ST",
+            "count_1" : "3"
+          }, {
+            "item" : "NORTH POINT ST",
+            "count_1" : "3"
+          }, {
+            "item" : "OCTAVIA ST",
+            "count_1" : "3"
+          }, {
+            "item" : "MISSION ST",
+            "count_1" : "3"
+          }, {
+            "item" : "10TH ST/POLK ST",
+            "count_1" : "3"
+          }, {
+            "item" : "CESAR CHAVEZ ST",
+            "count_1" : "3"
+          }, {
+            "item" : "11TH ST",
+            "count_1" : "3"
+          }, {
+            "item" : "SANCHEZ ST",
+            "count_1" : "3"
+          }, {
+            "item" : "16TH ST",
+            "count_1" : "3"
+          }, {
+            "item" : "HAIGHT ST",
+            "count_1" : "2"
+          }, {
+            "item" : "VAN NESS AVE",
+            "count_1" : "2"
+          }, {
+            "item" : "TOWNSEND ST",
+            "count_1" : "2"
+          }, {
+            "item" : "THE EMBARCADERO",
+            "count_1" : "2"
+          }, {
+            "item" : "EUCLID AVE",
+            "count_1" : "2"
+          } ],
+          "not_null" : "153",
+          "smallest" : "10TH ST/POLK ST",
+          "cardinality" : "86"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361248,
+        "name" : "DESCRIPT",
+        "dataTypeName" : "text",
+        "fieldName" : "descript",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278639,
+        "cachedContents" : {
+          "largest" : "TWO-STAGE LEFT",
+          "null" : "0",
+          "top" : [ {
+            "item" : "INTERSECTION SHARROW",
+            "count_1" : "56"
+          }, {
+            "item" : "MIXING ZONE",
+            "count_1" : "26"
+          }, {
+            "item" : "TWO-STAGE LEFT",
+            "count_1" : "25"
+          }, {
+            "item" : "BIKE BOX",
+            "count_1" : "24"
+          }, {
+            "item" : "BIKE SIGNAL",
+            "count_1" : "18"
+          }, {
+            "item" : "CROSSBIKE",
+            "count_1" : "1"
+          }, {
+            "item" : "JUGHANDLE",
+            "count_1" : "1"
+          }, {
+            "item" : "PROTECTED INTERSECTION",
+            "count_1" : "1"
+          }, {
+            "item" : "BIKE CHANNEL",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "BIKE BOX",
+          "cardinality" : "9"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361249,
+        "name" : "COUNT",
+        "dataTypeName" : "number",
+        "fieldName" : "count",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278640,
+        "cachedContents" : {
+          "largest" : "8",
+          "null" : "0",
+          "top" : [ {
+            "item" : "1",
+            "count_1" : "97"
+          }, {
+            "item" : "2",
+            "count_1" : "35"
+          }, {
+            "item" : "3",
+            "count_1" : "11"
+          }, {
+            "item" : "4",
+            "count_1" : "6"
+          }, {
+            "item" : "5",
+            "count_1" : "2"
+          }, {
+            "item" : "8",
+            "count_1" : "1"
+          }, {
+            "item" : "6",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361250,
+        "name" : "CREATED_USER",
+        "dataTypeName" : "text",
+        "fieldName" : "created_user",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278641,
+        "cachedContents" : {
+          "largest" : "JENWONG",
+          "null" : "42",
+          "top" : [ {
+            "item" : "JENWONG",
+            "count_1" : "111"
+          } ],
+          "not_null" : "111",
+          "smallest" : "JENWONG",
+          "cardinality" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361251,
+        "name" : "CREATED_DATE",
+        "dataTypeName" : "date",
+        "fieldName" : "created_date",
+        "position" : 10,
+        "renderTypeName" : "date",
+        "tableColumnId" : 58278642,
+        "cachedContents" : {
+          "largest" : "2018-05-08T16:52:14.000Z",
+          "null" : "42",
+          "top" : [ {
+            "item" : "2017-12-27T23:38:19.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2017-12-27T23:38:52.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2017-07-26T21:30:16.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T18:06:30.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-08-15T22:04:57.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2016-02-18T17:08:35.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-13T22:28:54.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T18:08:51.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2018-03-19T17:32:21.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-08-16T18:23:36.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-08-16T00:23:07.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T17:32:12.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2015-09-22T21:06:58.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-20T17:55:57.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2018-01-17T19:20:37.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2015-08-12T16:34:01.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-07-26T21:15:56.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2016-05-10T00:06:30.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-27T23:36:41.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-27T23:34:00.000Z",
+            "count_1" : "1"
+          } ],
+          "not_null" : "111",
+          "smallest" : "2015-08-12T16:34:01.000Z",
+          "cardinality" : "109"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361252,
+        "name" : "LAST_EDITED_USER",
+        "dataTypeName" : "text",
+        "fieldName" : "last_edited_user",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278643,
+        "cachedContents" : {
+          "largest" : "MTA",
+          "null" : "0",
+          "top" : [ {
+            "item" : "JENWONG",
+            "count_1" : "118"
+          }, {
+            "item" : "MTA",
+            "count_1" : "35"
+          } ],
+          "not_null" : "153",
+          "smallest" : "JENWONG",
+          "cardinality" : "2"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361253,
+        "name" : "LAST_EDITED_DATE",
+        "dataTypeName" : "date",
+        "fieldName" : "last_edited_date",
+        "position" : 12,
+        "renderTypeName" : "date",
+        "tableColumnId" : 58278644,
+        "cachedContents" : {
+          "largest" : "2018-05-08T16:58:52.000Z",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2016-04-29T22:44:54.000Z",
+            "count_1" : "34"
+          }, {
+            "item" : "2018-01-17T19:27:15.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2017-12-13T22:34:28.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2017-12-13T22:34:30.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2017-12-13T22:34:33.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2018-01-17T19:27:53.000Z",
+            "count_1" : "2"
+          }, {
+            "item" : "2018-03-19T17:32:05.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2016-12-15T22:58:09.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T18:06:14.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T17:32:10.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T17:33:51.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2018-04-25T19:56:41.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-07-26T21:59:18.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2018-03-19T17:49:07.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-13T22:46:08.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T17:32:32.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-05-22T18:05:22.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2018-04-25T19:51:52.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-10-06T23:22:47.000Z",
+            "count_1" : "1"
+          }, {
+            "item" : "2017-12-13T22:34:26.000Z",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "2016-04-29T22:44:53.000Z",
+          "cardinality" : "115"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361254,
+        "name" : "INSTALL_MO",
+        "dataTypeName" : "number",
+        "fieldName" : "install_mo",
+        "position" : 13,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278645,
+        "cachedContents" : {
+          "largest" : "12",
+          "null" : "57",
+          "top" : [ {
+            "item" : "4",
+            "count_1" : "18"
+          }, {
+            "item" : "11",
+            "count_1" : "14"
+          }, {
+            "item" : "10",
+            "count_1" : "13"
+          }, {
+            "item" : "1",
+            "count_1" : "10"
+          }, {
+            "item" : "9",
+            "count_1" : "8"
+          }, {
+            "item" : "5",
+            "count_1" : "8"
+          }, {
+            "item" : "6",
+            "count_1" : "6"
+          }, {
+            "item" : "8",
+            "count_1" : "5"
+          }, {
+            "item" : "7",
+            "count_1" : "5"
+          }, {
+            "item" : "3",
+            "count_1" : "4"
+          }, {
+            "item" : "2",
+            "count_1" : "3"
+          }, {
+            "item" : "12",
+            "count_1" : "2"
+          } ],
+          "not_null" : "96",
+          "smallest" : "1",
+          "cardinality" : "12"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361255,
+        "name" : "INSTALL_YR",
+        "dataTypeName" : "number",
+        "fieldName" : "install_yr",
+        "position" : 14,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278646,
+        "cachedContents" : {
+          "largest" : "2018",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2016",
+            "count_1" : "42"
+          }, {
+            "item" : "2017",
+            "count_1" : "27"
+          }, {
+            "item" : "2018",
+            "count_1" : "20"
+          }, {
+            "item" : "2015",
+            "count_1" : "19"
+          }, {
+            "item" : "2014",
+            "count_1" : "14"
+          }, {
+            "item" : "2012",
+            "count_1" : "12"
+          }, {
+            "item" : "2013",
+            "count_1" : "9"
+          }, {
+            "item" : "2011",
+            "count_1" : "7"
+          }, {
+            "item" : "2008",
+            "count_1" : "1"
+          }, {
+            "item" : "2006",
+            "count_1" : "1"
+          }, {
+            "item" : "2004",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "2004",
+          "cardinality" : "11"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361256,
+        "name" : "GLOBALID",
+        "dataTypeName" : "text",
+        "fieldName" : "globalid",
+        "position" : 15,
+        "renderTypeName" : "text",
+        "tableColumnId" : 58278647,
+        "cachedContents" : {
+          "largest" : "{FD6CEE19-5A24-417E-A8EC-13B8909299DB}",
+          "null" : "0",
+          "top" : [ {
+            "item" : "{CAD96ADB-4CEA-465E-87B8-116C3215F40F}",
+            "count_1" : "1"
+          }, {
+            "item" : "{1E7CD99D-D144-49F8-B82A-5FF040F8E1D6}",
+            "count_1" : "1"
+          }, {
+            "item" : "{B089AE72-1EC8-4134-87C1-CF0E459550C0}",
+            "count_1" : "1"
+          }, {
+            "item" : "{0522310A-58AA-4D95-877F-D597C2F7AA41}",
+            "count_1" : "1"
+          }, {
+            "item" : "{3B4BA4D8-866B-443C-A246-1AC49FA9374B}",
+            "count_1" : "1"
+          }, {
+            "item" : "{7DECF5D9-CB67-4130-AD77-40183712F645}",
+            "count_1" : "1"
+          }, {
+            "item" : "{0C9D9CCB-B14E-4A91-8DC8-51CEF2F92705}",
+            "count_1" : "1"
+          }, {
+            "item" : "{656CD762-40F1-4DB7-BB7C-C19C5DD6C063}",
+            "count_1" : "1"
+          }, {
+            "item" : "{8BDDFEF5-90E2-4579-AA9A-05A0BB0E0744}",
+            "count_1" : "1"
+          }, {
+            "item" : "{2FF1135A-D512-4273-B232-D1A9F4BDC1EF}",
+            "count_1" : "1"
+          }, {
+            "item" : "{818BD36F-6319-4418-A62F-84E6EE01D670}",
+            "count_1" : "1"
+          }, {
+            "item" : "{0AA72E58-3469-4979-B9F5-7A40E634A54C}",
+            "count_1" : "1"
+          }, {
+            "item" : "{90F660D5-C3A7-4929-A1C9-934433D51ACD}",
+            "count_1" : "1"
+          }, {
+            "item" : "{9429957C-D4B5-4592-BE68-A593A54ADDF1}",
+            "count_1" : "1"
+          }, {
+            "item" : "{ABD514AA-122E-4378-B468-A1C302D35BD5}",
+            "count_1" : "1"
+          }, {
+            "item" : "{7ECAB3A6-C64F-46BD-80C7-51E9C4AFD3C2}",
+            "count_1" : "1"
+          }, {
+            "item" : "{80912707-8AAC-4888-A443-5ED6E7923EFE}",
+            "count_1" : "1"
+          }, {
+            "item" : "{416D32E5-723C-4E80-AF3A-0061F979CF0D}",
+            "count_1" : "1"
+          }, {
+            "item" : "{4774CE50-2151-458C-A3E1-E6B2BE899CBA}",
+            "count_1" : "1"
+          }, {
+            "item" : "{FC1B3D52-28E4-47E2-B1FD-7787FA2EB317}",
+            "count_1" : "1"
+          } ],
+          "not_null" : "153",
+          "smallest" : "{00197F01-C7D1-4F74-A17B-41422687974C}",
+          "cardinality" : "153"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361257,
+        "name" : "UPDATE_MO",
+        "dataTypeName" : "number",
+        "fieldName" : "update_mo",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278648,
+        "cachedContents" : {
+          "largest" : "11",
+          "null" : "144",
+          "top" : [ {
+            "item" : "5",
+            "count_1" : "3"
+          }, {
+            "item" : "1",
+            "count_1" : "2"
+          }, {
+            "item" : "4",
+            "count_1" : "1"
+          }, {
+            "item" : "10",
+            "count_1" : "1"
+          }, {
+            "item" : "11",
+            "count_1" : "1"
+          }, {
+            "item" : "0",
+            "count_1" : "1"
+          } ],
+          "not_null" : "9",
+          "smallest" : "0",
+          "cardinality" : "6"
+        },
+        "format" : { }
+      }, {
+        "id" : 335361258,
+        "name" : "UPDATE_YR",
+        "dataTypeName" : "number",
+        "fieldName" : "update_yr",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 58278649,
+        "cachedContents" : {
+          "largest" : "2018",
+          "null" : "144",
+          "top" : [ {
+            "item" : "2018",
+            "count_1" : "3"
+          }, {
+            "item" : "2017",
+            "count_1" : "3"
+          }, {
+            "item" : "2016",
+            "count_1" : "2"
+          }, {
+            "item" : "0",
+            "count_1" : "1"
+          } ],
+          "not_null" : "9",
+          "smallest" : "0",
+          "cardinality" : "4"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "owner" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "screenName" : "OpenData",
+        "type" : "interactive"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "screenName" : "OpenData",
+        "type" : "interactive"
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ "row-envz_nejp-y6g2", "00000000-0000-0000-9FD8-4C96E14AB99B", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.433811174701 37.805048181243)", "65", "26758000", null, "BUCHANAN ST", "MARINA BLVD", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513204468, null, "2013", "{4774CE50-2151-458C-A3E1-E6B2BE899CBA}", null, null ]
+, [ "row-4r5v.zmww.28ih", "00000000-0000-0000-CEE3-E45185733867", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.413398451401 37.769506948919)", "40", "24228000", null, "13TH ST", "HARRISON ST", "INTERSECTION SHARROW", "3", "JENWONG", 1481842774, "JENWONG", 1495473492, "9", "2015", "{EC77A1F6-4EEA-4537-8A1C-0E3DD868656E}", "5", "2017" ]
+, [ "row-9kaj~n8q9~aehu", "00000000-0000-0000-F6A7-2FA95EAB6ECF", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.413161264093 37.780998727483)", "973", "30045000", null, "MCALLISTER ST", "CHARLES J BRENHAM PL", "TWO-STAGE LEFT", "1", "JENWONG", 1508947335, "JENWONG", 1508947473, "4", "2017", "{EAA01A9C-1BC3-4830-A63B-A6B189AE586D}", null, null ]
+, [ "row-6m4m_jikp~j9gc", "00000000-0000-0000-8109-B29FB43EC5F5", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.407314287894 37.807385017158)", "963", "25474000", null, "THE EMBARCADERO", "NORTH POINT ST", "TWO-STAGE LEFT", "1", "JENWONG", 1502842987, "JENWONG", 1502843074, "6", "2017", "{8231F28B-D792-471A-9E1B-8B38763F1ACF}", null, null ]
+, [ "row-vwdi-zje5-shnm", "00000000-0000-0000-1A6C-0B2F01DA16F0", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.409951454557 37.778421227779)", "331", "24289000", null, "7TH ST", "NATOMA ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495476390, "JENWONG", 1495476433, "4", "2017", "{6A65CDAF-DCE2-4876-B7F5-2ECD968129EE}", null, null ]
+, [ "row-ta4a_9yxa_m8eu", "00000000-0000-0000-F64A-B311186BE28E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.395658679847 37.786383883243)", "63", "24524000", null, "FOLSOM ST", "ESSEX ST", "BIKE SIGNAL", "2", "JENWONG", 1462830163, "JENWONG", 1513204473, "3", "2016", "{3DE11066-6F93-44B4-BFBF-95F49CFE8AF8}", null, null ]
+, [ "row-awhq~3idv_j65j", "00000000-0000-0000-ADAB-A4D5FBCC3B7A", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.458744844272 37.779338100144)", "647", "27225000", null, "ARGUELLO BLVD", "ANZA ST", "MIXING ZONE", "1", "JENWONG", 1501105117, "JENWONG", 1501105873, "10", "2016", "{5BCFA27C-B9D8-4FFF-BC51-18FB9889F840}", null, null ]
+, [ "row-zdt6~ytgc_ank6", "00000000-0000-0000-7CA6-BC05B0B014B6", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.458871882928 37.781262002287)", "648", "27230000", null, "ARGUELLO BLVD", "GEARY BLVD", "INTERSECTION SHARROW", "2", "JENWONG", 1501105895, "JENWONG", 1501105930, "10", "2016", "{BEBFD64A-C113-419B-8D23-B9F652981482}", null, null ]
+, [ "row-bcut~bvcc_u57y", "00000000-0000-0000-2835-6D5899795E9B", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.395658679847 37.786383883243)", "9", "24524000", null, "FOLSOM ST", "ESSEX ST", "INTERSECTION SHARROW", "1", "JENWONG", 1462830415, "JENWONG", 1462830491, "4", "2016", "{0522310A-58AA-4D95-877F-D597C2F7AA41}", null, null ]
+, [ "row-wv3j_iezn-9hcq", "00000000-0000-0000-D16E-2A88F07F00E2", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.417117349833 37.774330231544)", "970", "24421000", null, "11TH ST", "MISSION ST", "BIKE BOX", "1", "JENWONG", 1504035742, "JENWONG", 1504035821, "8", "2017", "{5259D413-1427-4C2B-B295-9FD876114182}", null, null ]
+, [ "row-3czu_tjxz_4dtc", "00000000-0000-0000-CEA2-9672AF917350", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.410949788693 37.779216630551)", "328", "24315000", null, "7TH ST", "MISSION ST", "MIXING ZONE", "1", "JENWONG", 1495476278, "JENWONG", 1495476322, "4", "2017", "{744E45AE-5DA2-4280-A770-EDC90B6A0419}", null, null ]
+, [ "row-nrqy~t7kb.uttf", "00000000-0000-0000-BE9D-7D400D8B90B5", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.410414707584 37.778790317289)", "330", "24291000", null, "7TH ST", "MINNA ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495476342, "JENWONG", 1495476374, "4", "2017", "{49B835CA-EDA4-40DD-A487-6E5D11796217}", null, null ]
+, [ "row-ku6z-j76k.ri74", "00000000-0000-0000-3362-D9AE8E838499", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.401388705752 37.789269269497)", "2", "30734000", "NE", "MARKET ST", "2ND ST", "BIKE BOX", "1", "JENWONG", 1462832204, "JENWONG", 1462832282, "4", "2016", "{9D5FC69A-C815-4544-B915-A528BCE8C40F}", null, null ]
+, [ "row-naw9.q8ta.ghqz", "00000000-0000-0000-C7E5-B53398755A26", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.435386208844 37.771484374504)", "28", "26025000", null, "SCOTT ST", "HAIGHT ST", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2012", "{DCA2535E-AC1C-40D5-9929-969BC5BE3937}", null, null ]
+, [ "row-3wdj.fxu4-ka7t", "00000000-0000-0000-7B70-41D1835D099E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.45926898918 37.786628242039)", "652", "27570000", null, "ARGUELLO BLVD", "SACRAMENTO ST", "MIXING ZONE", "1", "JENWONG", 1501106340, "JENWONG", 1501106358, "10", "2016", "{9429957C-D4B5-4592-BE68-A593A54ADDF1}", null, null ]
+, [ "row-53za-wvjq~pr8i", "00000000-0000-0000-3E9D-5F546F9F6F2E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422632914862 37.77250770905)", "37", "30755000", null, "MARKET ST", "VALENCIA ST", "INTERSECTION SHARROW", "1", null, null, "MTA", 1461969894, null, "2012", "{18F8F7B8-0BD0-405B-BCF4-C9CE520E435A}", null, null ]
+, [ "row-pqwm.dahn-8vg2", "00000000-0000-0000-4626-E13649E5865F", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.410944300976 37.769416135446)", "11", "24216000", null, "DIVISION ST", "11TH ST", "TWO-STAGE LEFT", "2", "JENWONG", 1481841946, "JENWONG", 1481842689, "9", "2015", "{75658C2F-676C-4A36-8473-B861342E0510}", null, null ]
+, [ "row-zezu.m7js-37rn", "00000000-0000-0000-FE82-08F9B01FE5D3", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.413170905935 37.777462364881)", "321", "24311000", null, "8TH ST", "MISSION ST", "MIXING ZONE", "1", "JENWONG", 1495474144, "JENWONG", 1495474223, "5", "2017", "{7D40715F-192C-410F-A329-DDA7B4CA97C1}", null, null ]
+, [ "row-iaax-cdum_wirk", "00000000-0000-0000-9880-4D3018A8B79B", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.412629881433 37.777031365705)", "326", "24310000", null, "8TH ST", "MINNA ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495474486, "JENWONG", 1495474517, "5", "2017", "{C66747D1-52AA-4E51-A08B-6A5A93107140}", null, null ]
+, [ "row-d7au~ijz3~i8s7", "00000000-0000-0000-B674-3E737758D2C4", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.439947599426 37.734861748731)", "656", "22267000", null, "BOSWORTH ST", "ELK ST", "INTERSECTION SHARROW", "2", "JENWONG", 1502834697, "JENWONG", 1508948790, "7", "2017", "{BC313BF6-B49F-425C-9BF5-413175AB9F79}", null, null ]
+, [ "row-pu67-58v4_4m57", "00000000-0000-0000-06D5-F699FD6E1B0E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.41630492582 37.777498734798)", "27", "30746000", "SW, NE", "MARKET ST", "9TH ST/LARKIN ST", "BIKE BOX", "2", null, null, "MTA", 1461969894, null, "2011", "{B8655DA0-00F7-4570-8DF4-017046253A2A}", null, null ]
+, [ "row-rmnx.emy5_i3mm", "00000000-0000-0000-554D-B711DCA71CA5", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.459057775685 37.783831546196)", "650", "27562000", null, "ARGUELLO BLVD", "EUCLID AVE", "MIXING ZONE", "2", "JENWONG", 1501106005, "JENWONG", 1501106098, "10", "2016", "{99442930-D06C-4DF1-AC51-7E153756FFC9}", null, null ]
+, [ "row-2z67~2xad_xfe6", "00000000-0000-0000-C75C-F4027D2799C8", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.41751468657 37.776545785908)", "15", "30746000", null, "MARKET ST", "10TH ST/POLK ST", "TWO-STAGE LEFT", "2", null, null, "MTA", 1461969894, null, "2014", "{9BDCB2C9-CB74-4681-B13E-9904F408B593}", null, null ]
+, [ "row-w3j8.heaf_ekay", "00000000-0000-0000-B12A-4A20BB10267F", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.415590229257 37.769596104226)", "61", "24349000", null, "13TH ST", "FOLSOM ST", "INTERSECTION SHARROW", "2", "JENWONG", 1481842953, "JENWONG", 1481842990, "9", "2015", "{62046732-04C9-470E-B39F-36CFC012BE96}", null, null ]
+, [ "row-4iyj_6d66_6j9d", "00000000-0000-0000-B505-7C5393A8FDC6", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.452450111703 37.772194570378)", "14", "26437000", null, "FELL ST", "PANHANDLE PATH/SHRADER ST", "BIKE SIGNAL", "1", null, null, "JENWONG", 1513204473, null, "2011", "{1768AB25-350F-4434-AB3F-845F929A728D}", null, null ]
+, [ "row-zsgr-tvyg.yxg7", "00000000-0000-0000-4FBE-A45E31D8160F", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.383131435225 37.743888228357)", "21", "33105000", null, "CARGO WAY", "MENDELL ST", "BIKE SIGNAL", "4", null, null, "JENWONG", 1513204471, null, "2012", "{00197F01-C7D1-4F74-A17B-41422687974C}", null, null ]
+, [ "row-e2gz~tdmm~yfga", "00000000-0000-0000-2363-F72A3EF533DD", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.39507375546 37.766549522694)", "965", "23785000", null, "16TH ST", "MISSISSIPPI ST", "TWO-STAGE LEFT", "1", "JENWONG", 1502906757, "JENWONG", 1502906904, "3", "2017", "{57D3A0E3-B379-4C7B-B2CA-58CBDFB4B44B}", null, null ]
+, [ "row-fpvk.qi44-7e6t", "00000000-0000-0000-46E6-63AA8A0503F6", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.431583605939 37.769312052179)", "53", "25987000", null, "DUBOCE AVE", "STEINER ST", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2012", "{9F9C48BB-2227-49B5-B5B2-64056F4AF6D4}", null, null ]
+, [ "row-x3un_2fhj_afe4", "00000000-0000-0000-EDE8-B42BDA3E9BEE", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.431776437454 37.778636981496)", "10", "25968000", "E", "MCALLISTER ST", "FILLMORE ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2015", "{885C6BE8-D26A-4318-ACAB-3D7D3BD4CE69}", null, null ]
+, [ "row-xh6i~7b3z~eawg", "00000000-0000-0000-3213-DFCB0494A70E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.45926898918 37.786628242039)", "643", "27570000", null, "ARGUELLO BLVD", "SACRAMENTO ST", "INTERSECTION SHARROW", "1", "JENWONG", 1501103756, "JENWONG", 1501106298, "10", "2016", "{2C2A5062-DF43-40D4-BD98-02DAF2D9465D}", null, null ]
+, [ "row-3mf7.yp8e-vxrc", "00000000-0000-0000-B3C4-0DFF29101AB5", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.464325676412 37.76607677018)", "1282", "33561000", null, "7TH AVE", "LINCOLN WAY", "BIKE SIGNAL", "5", "JENWONG", 1513204134, "JENWONG", 1513204466, "7", "2016", "{13F6DAA0-4CE5-4E87-B2A0-A9E0193344D9}", null, null ]
+, [ "row-ypze.9mcj~z3dv", "00000000-0000-0000-C68E-14091B71C069", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.428510665662 37.735018774311)", "966", "21865000", null, "SAN JOSE AVE", "ST MARYS AVE", "MIXING ZONE", "1", "JENWONG", 1502907816, "JENWONG", 1502907921, "8", "2017", "{CAD96ADB-4CEA-465E-87B8-116C3215F40F}", null, null ]
+, [ "row-zyjs~2cri-x3cf", "00000000-0000-0000-4DD5-F708D8ED7A59", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.415627003614 37.768542278031)", "60", "24336000", "SW", "14TH ST", "FOLSOM ST", "BIKE BOX", "1", null, null, "JENWONG", 1507332167, null, "2004", "{A895289B-FD24-4113-875B-20952744197D}", "10", "2016" ]
+, [ "row-pbss.n8xb~qwcw", "00000000-0000-0000-D606-F9522EBF5AD8", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.439101827051 37.772926872193)", "31", "26036000", null, "OAK ST", "BRODERICK ST", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513204467, null, "2013", "{326C4731-BBF9-4D19-BB1E-632EA86C9811}", null, null ]
+, [ "row-isgi_nmj8_e2vg", "00000000-0000-0000-AE6B-C802A6CF7297", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.420292043149 37.748130224734)", "961", "21345000", null, "VALENCIA ST", "CESAR CHAVEZ ST", "MIXING ZONE", "1", "JENWONG", 1502837646, "JENWONG", 1502837762, "8", "2017", "{01FA7F3A-CB7B-471F-B6FF-F32CCF91E4E7}", null, null ]
+, [ "row-ip4r~apfv_uczg", "00000000-0000-0000-C867-914FD54EE952", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.442223015738 37.805791167596)", "18", "26796000", null, "SCOTT ST", "MARINA BLVD", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513204472, null, "2013", "{DDD6B854-A39F-4F68-B162-C23768DE335C}", null, null ]
+, [ "row-3ddy~9zys_k5pz", "00000000-0000-0000-7946-3AEAA0FA8612", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.458384319309 37.774313836779)", "645", "27191000", null, "ARGUELLO BLVD", "FULTON ST", "MIXING ZONE", "1", "JENWONG", 1501104952, "JENWONG", 1501104998, "10", "2016", "{ED1E278A-8F68-4335-B86A-F77CB40EFB98}", null, null ]
+, [ "row-j7vk~mtbr~rdmm", "00000000-0000-0000-666A-66588106585C", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.386052864192 37.745546647172)", "68", "54159000", null, "CARGO WAY", "ILLINOIS ST", "INTERSECTION SHARROW", "4", null, null, "MTA", 1461969894, null, "2012", "{0B2943F6-36AF-46B3-A315-F09A5A03059A}", null, null ]
+, [ "row-pmr3-ndug.mixu", "00000000-0000-0000-7800-2E1DFFE34E17", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.459057775685 37.783831546196)", "651", "27562000", null, "ARGUELLO BLVD", "EUCLID AVE", "TWO-STAGE LEFT", "1", "JENWONG", 1501106046, "JENWONG", 1501106069, "10", "2016", "{D512E3AA-B729-4430-99FE-5028D10CB215}", null, null ]
+, [ "row-4r4j~ne2d_6i7t", "00000000-0000-0000-0C3D-A45AE6E5540A", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.459011622802 37.783193606773)", "649", "27232000", null, "ARGUELLO BLVD", "CLEMENT ST", "MIXING ZONE", "1", "JENWONG", 1501105962, "JENWONG", 1501106001, "10", "2016", "{59683B60-C088-477F-9D37-FC408E889EE7}", null, null ]
+, [ "row-ekmk.kdg9-s92t", "00000000-0000-0000-4F14-C3BB1A2EC99D", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.414135246633 37.769541833562)", "33", "33030000", null, "13TH ST", "BERNICE ST", "INTERSECTION SHARROW", "1", "JENWONG", 1481845760, "JENWONG", 1481845797, "9", "2015", "{F5715A39-9700-4624-A0EE-574028E35BA6}", null, null ]
+, [ "row-wqce~d6n3_bbpm", "00000000-0000-0000-2D7A-4D397F79FA5E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.43356038605 37.770760121913)", "49", "25996000", null, "WALLER ST", "PIERCE ST", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2012", "{A2DBECD0-117C-4165-A3EB-3F92DFFAE0DB}", null, null ]
+, [ "row-qb7r_f3r8~xx6k", "00000000-0000-0000-135E-B9565CAAFE2E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.386052864192 37.745546647172)", "71", "20247000", null, "CARGO WAY", "ILLINOIS ST", "BIKE SIGNAL", "3", null, null, "JENWONG", 1513204468, null, "2012", "{80912707-8AAC-4888-A443-5ED6E7923EFE}", null, null ]
+, [ "row-pmem_aq8x~u9ha", "00000000-0000-0000-ED86-7B97A29CC783", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.4219544718 37.773040942838)", "66", "30753000", "NE", "MARKET ST", "HAIGHT ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2011", "{B09BE484-7E77-4FDF-9C9C-19B311157DE2}", null, null ]
+, [ "row-yraq-6avt.9ey7", "00000000-0000-0000-D316-890CB3B8236B", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.433747998062 37.771693164204)", "48", "25999000", null, "HAIGHT ST", "PIERCE ST", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2012", "{7E4B948E-1617-425A-934E-5F03F922BC66}", null, null ]
+, [ "row-cptk~yxj6-wz9w", "00000000-0000-0000-E096-3FFF00430DB2", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.420370832323 37.746496986954)", "962", "21341000", null, "TIFFANY AVE", "DUNCAN ST", "BIKE CHANNEL", "1", "JENWONG", 1502838885, "JENWONG", 1502839115, null, "2013", "{8D89C11A-2247-48C4-BB1E-3CE1C3774556}", "11", "2016" ]
+, [ "row-8qz5_cui6~evnq", "00000000-0000-0000-CFC5-64AEB647924E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.414156590503 37.778245828711)", "327", "24327000", null, "8TH ST", "STEVENSON ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495474544, "JENWONG", 1495474573, "5", "2017", "{38013D05-CFCB-4676-80D7-3A9023578683}", null, null ]
+, [ "row-hwwn~7zfi~mj93", "00000000-0000-0000-901B-332AB1C184D9", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.407314287894 37.807385017158)", "964", "25474000", null, "THE EMBARCADERO", "NORTH POINT ST", "BIKE SIGNAL", "2", "JENWONG", 1502843180, "JENWONG", 1513204563, "6", "2017", "{3B4BA4D8-866B-443C-A246-1AC49FA9374B}", null, null ]
+, [ "row-3zid.isew.qwp7", "00000000-0000-0000-F9CF-F4060C546258", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.41751468657 37.776545785908)", "26", "30746000", null, "MARKET ST", "10TH ST/POLK ST", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513205168, null, "2014", "{5AE69BC3-4D5D-40DE-9F7E-1CCD298A2AB8}", null, null ]
+, [ "row-i4mw.bmp5-hckv", "00000000-0000-0000-D827-8F97E130998D", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422378034304 37.769872641916)", "23", "24403000", null, "DUBOCE AVE", "VALENCIA ST", "MIXING ZONE", "1", "JENWONG", 1442956093, "MTA", 1461969894, null, "2015", "{4911748B-44BB-40DB-A495-5541A03BD5EE}", null, null ]
+, [ "row-hjt2-jxvi-shh3", "00000000-0000-0000-101B-1C38E3F5C49E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.41751468657 37.776545785908)", "7", "30746000", null, "MARKET ST", "10TH ST/POLK ST", "INTERSECTION SHARROW", "4", null, null, "MTA", 1461969894, null, "2014", "{C352AF2E-D0F9-4378-BF2E-BD3B3EC2476B}", null, null ]
+, [ "row-aukp.mpxf-89ke", "00000000-0000-0000-4AEA-EABADAFF6905", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422682666776 37.743947130177)", "47", "21349000", "NE", "SAN JOSE AVE", "29TH ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2011", "{090522AF-23A5-4C2E-9A9A-30A324860C6D}", null, null ]
+, [ "row-hh5f-3hfr~s8eu", "00000000-0000-0000-B7DE-3177513604AB", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.440935010306 37.77364023855)", "971", "26350000", null, "FELL ST", "BAKER ST", "TWO-STAGE LEFT", "1", "JENWONG", 1507332222, "JENWONG", 1507332330, "7", "2016", "{7DECF5D9-CB67-4130-AD77-40183712F645}", null, null ]
+, [ "row-udiv~wbvv-5cya", "00000000-0000-0000-3857-E13C4EB1D1A6", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.410623943324 37.775433297547)", "324", "23273000", null, "8TH ST", "CLEMENTINA ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495474399, "JENWONG", 1495474431, "5", "2017", "{A642ADD5-74AC-4098-84DE-E49C78CB9D4B}", null, null ]
+, [ "row-qd5w~dqja_zug2", "00000000-0000-0000-2C49-FE8B8F4D768E", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.418239805146 37.778494009305)", "41", "24437000", null, "POLK ST", "GROVE ST", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513205195, null, "2014", "{90728BA9-C852-48B0-B859-8C0514D4A828}", null, null ]
+, [ "row-sfuv-juys_yunf", "00000000-0000-0000-1B37-8FD336C830DD", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.428521973828 37.762894755982)", "69", "25723000", null, "17TH ST", "CHURCH ST", "INTERSECTION SHARROW", "4", null, null, "MTA", 1461969894, null, "2014", "{51EE89DE-DB44-4FC2-B0B7-7CC1D81B5116}", null, null ]
+, [ "row-qrtv-v8by~653d", "00000000-0000-0000-1942-7B437F845D60", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.411082656287 37.775798748636)", "325", "24298000", null, "8TH ST", "TEHAMA ST", "INTERSECTION SHARROW", "1", "JENWONG", 1495474439, "JENWONG", 1495474470, "5", "2017", "{90F660D5-C3A7-4929-A1C9-934433D51ACD}", null, null ]
+, [ "row-wcjp-82bx.2cut", "00000000-0000-0000-EC49-3B6E8EAFE5D6", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.430060482804 37.778855872208)", "70", "25967000", null, "WEBSTER ST", "MCALLISTER ST", "TWO-STAGE LEFT", "2", null, null, "MTA", 1461969894, null, "2015", "{416D32E5-723C-4E80-AF3A-0061F979CF0D}", null, null ]
+, [ "row-ph6j-6bqu.m44p", "00000000-0000-0000-83E0-90E597C691FD", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.459400838162 37.788410160135)", "655", "27575000", null, "ARGUELLO BLVD", "WASHINGTON ST", "MIXING ZONE", "1", "JENWONG", 1501106454, "JENWONG", 1501106500, "10", "2016", "{413C9A93-4953-4C26-8AC6-C87AD065BF9A}", null, null ]
+, [ "row-kqym-mvei~29zs", "00000000-0000-0000-6941-0ABAF5A50966", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.413682056196 37.748260272121)", "32", "21177000", null, "FOLSOM", "CESAR CHAVEZ", "TWO-STAGE LEFT", "1", "JENWONG", 1447356054, "MTA", 1461969894, null, "2015", "{457CD722-10E7-4513-AD34-8FA8ADFD9B41}", null, null ]
+, [ "row-hmvs~2vkq.64gs", "00000000-0000-0000-58E3-85CD4820076D", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.436706567937 37.802633369685)", "43", "26764000", null, "BAY ST", "FILLMORE ST", "INTERSECTION SHARROW", "1", "JENWONG", 1449182633, "MTA", 1461969894, null, "2015", "{62D7C2DA-8921-4834-8E19-4DF0E868EAA7}", null, null ]
+, [ "row-rgt4~8i7h~5vrt", "00000000-0000-0000-542B-D3579AE82AA9", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.42250057659 37.748018391914)", "968", "21897000", null, "GUERRERO ST", "CESAR CHAVEZ ST", "MIXING ZONE", "1", "JENWONG", 1503445660, "JENWONG", 1503445731, "8", "2017", "{FD6CEE19-5A24-417E-A8EC-13B8909299DB}", null, null ]
+, [ "row-xuva-66iq.6ecj", "00000000-0000-0000-FA32-59276C884787", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.419268830048 37.775151966009)", "1", "30748000", "SW, NE", "MARKET ST", "VAN NESS AVE", "BIKE BOX", "2", null, null, "MTA", 1461969894, null, "2011", "{E18EC37F-5D80-485A-897F-187738E109E0}", null, null ]
+, [ "row-t6vw~9ncm.2wha", "00000000-0000-0000-F9D4-81E09FBD8042", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.440748374351 37.772717763705)", "3", "26319000", "N", "BAKER ST", "OAK ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2013", "{1BA3F8E8-7D87-4B85-AFEC-F5258B2EDF30}", null, null ]
+, [ "row-x85v~rns2-z47i", "00000000-0000-0000-823C-7D949AC6BF76", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.435764725359 37.77335060346)", "6", "26027000", "SE", "SCOTT ST", "OAK", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2006", "{3C759FD6-DA96-480B-9D54-4B3325015E4E}", null, null ]
+, [ "row-3sba.ytea.cg3t", "00000000-0000-0000-AF2F-10553D8F91B3", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.418056391234 37.777516603048)", "45", "24436000", null, "POLK ST", "HAYES ST", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513204469, null, "2014", "{1E7CD99D-D144-49F8-B82A-5FF040F8E1D6}", null, null ]
+, [ "row-a7ub.cujy~4zra", "00000000-0000-0000-0449-7162169C25D7", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.45929275097 37.786918812888)", "653", "27578000", null, "ARGUELLO BLVD", "LAKE ST", "INTERSECTION SHARROW", "1", "JENWONG", 1501106403, "JENWONG", 1501106403, "10", "2016", "{9BCBEE47-415F-45E2-84E1-31C435400DA7}", null, null ]
+, [ "row-6yvq~x56b.crn2", "00000000-0000-0000-3C8B-D509620B0CDD", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.409400220047 37.777982032387)", "50", "24265000", null, "7TH ST", "HOWARD ST", "MIXING ZONE", "1", "JENWONG", 1452555231, "MTA", 1461969894, null, "2014", "{45040599-2933-442B-BDC5-7DACC1ECD9E6}", null, null ]
+, [ "row-pdy3_ahh2~an47", "00000000-0000-0000-D45C-7EAF1C861905", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422539567844 37.771599994452)", "20", "25853000", "NE", "MCCOPPIN ST", "VALENCIA ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2013", "{62E3E767-C821-4492-ADA2-061D23934D48}", null, null ]
+, [ "row-3bh9~uegm_i36e", "00000000-0000-0000-08C4-2A80A4652F86", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.388310829073 37.781806785799)", "22", "23592000", null, "THE EMBARCADERO", "TOWNSEND ST", "TWO-STAGE LEFT", "1", "JENWONG", 1462825523, "JENWONG", 1462825592, null, "2015", "{095493B7-38FC-44B2-8BA2-5B350420598A}", null, null ]
+, [ "row-8w4r-upex-c3sg", "00000000-0000-0000-8459-F94F9C33F610", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.408529544023 37.773764645751)", "967", "24201000", null, "8TH ST", "HARRISON ST", "MIXING ZONE", "1", "JENWONG", 1503445269, "JENWONG", 1503445352, "7", "2017", "{9A42DD3A-0A81-4165-9B80-8965468F1186}", null, null ]
+, [ "row-tiif.qw8b_xbm8", "00000000-0000-0000-15CF-751EBC23BF53", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.413398451401 37.769506948919)", "39", "24228000", null, "13TH ST", "HARRISON ST", "TWO-STAGE LEFT", "2", "JENWONG", 1481842770, "JENWONG", 1495473502, "9", "2015", "{91E2A380-848F-4BA3-B565-5DE0F8D8B095}", "5", "2017" ]
+, [ "row-c7w5.fnf8.95q7", "00000000-0000-0000-CC82-1438BD2C0B45", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422632914862 37.77250770905)", "1281", "30755000", null, "MARKET ST", "VALENCIA ST", "BIKE SIGNAL", "2", "JENWONG", 1513204080, "JENWONG", 1513204464, null, "2012", "{5FFA3AC2-E058-4B79-9B43-9A1F5038F747}", null, null ]
+, [ "row-dvw3_c387~q5w5", "00000000-0000-0000-DE6A-7C60E3C3A308", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.411619327458 37.776226301115)", "323", "24299000", null, "8TH ST", "HOWARD ST", "TWO-STAGE LEFT", "1", "JENWONG", 1495474332, "JENWONG", 1495474352, "5", "2017", "{A9AB89C7-F6C3-4D17-B6A8-76D12D570FEA}", null, null ]
+, [ "row-u9ac.qrbj-yxnu", "00000000-0000-0000-6979-5FBA7C90C662", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.414833974916 37.769565524951)", "59", "33028000", null, "13TH ST", "ISIS ST", "INTERSECTION SHARROW", "1", "JENWONG", 1481845717, "JENWONG", 1481845753, "9", "2015", "{EA1409CE-8925-450C-90D9-1EECB1626A70}", null, null ]
+, [ "row-vrj7_2npr~j2e9", "00000000-0000-0000-A436-60236EB92EFF", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.431917549533 37.770969316206)", "42", "25991000", null, "STEINER ST", "WALLER ST", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2012", "{86F583D0-CDA6-4DFC-97AF-A85DC8A6FC1B}", null, null ]
+, [ "row-2fnc~kw3w_pc3h", "00000000-0000-0000-1E29-C7AF9E08A884", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.45929275097 37.786918812888)", "641", "27578000", null, "ARGUELLO BLVD", "LAKE ST", "MIXING ZONE", "1", "JENWONG", 1501103710, "JENWONG", 1501106417, "10", "2016", "{D329EF4D-3FC8-419F-BDF1-D822C461597D}", null, null ]
+, [ "row-zccp_r534.vym4", "00000000-0000-0000-CF2B-B0878C778B47", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.411619327458 37.776226301115)", "322", "24299000", null, "8TH ST", "HOWARD ST", "MIXING ZONE", "1", "JENWONG", 1495474278, "JENWONG", 1495474330, "5", "2017", "{EAD37D50-843A-49AD-AD3C-278D00866D36}", null, null ]
+, [ "row-xz8m-m7bc.qa53", "00000000-0000-0000-1AE3-873E76E881CE", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.402074844467 37.749401622601)", "34", "20824000", "NE", "KANSAS ST", "CESAR CHAVEZ ST", "BIKE BOX", "1", null, null, "MTA", 1461969894, null, "2012", "{87358FCC-FE23-4DF3-833B-C8C179A506AF}", null, null ]
+, [ "row-bvvz-87jj_sw67", "00000000-0000-0000-89EB-17EF026DE14C", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.453739456502 37.770102968894)", "30", "26440000", null, "PAGE ST", "STANYAN ST", "BIKE SIGNAL", "2", null, null, "JENWONG", 1513204470, null, "2013", "{B8F4F355-4FC6-4C85-9617-AF87B962D48B}", null, null ]
+, [ "row-h28t_fken~pdxx", "00000000-0000-0000-E90C-8D9E281ED778", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.42632266313 37.769607488123)", "64", "30758000", null, "MARKET ST", "DUBOCE AVE", "CROSSBIKE", "1", null, null, "MTA", 1461969894, null, "2014", "{7642D3F8-E95C-4B34-B92E-E7E15655F9CA}", null, null ]
+, [ "row-sih8~xuyk~vz2t", "00000000-0000-0000-DAC6-9E1AE1CD4704", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.419268830048 37.775151966009)", "56", "30748000", null, "MARKET ST", "VAN NESS AVE", "INTERSECTION SHARROW", "3", null, null, "MTA", 1461969894, null, "2011", "{ABD514AA-122E-4378-B468-A1C302D35BD5}", null, null ]
+, [ "row-s7yq-ecuv~8x6f", "00000000-0000-0000-F317-E15190613279", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.407855274156 37.77675105422)", "334", "24262000", null, "7TH ST", "FOLSOM ST", "MIXING ZONE", "1", "JENWONG", 1495476704, "JENWONG", 1495476714, "4", "2017", "{C9CBB60D-0CFA-4278-8498-7C13861E81C9}", null, null ]
+, [ "row-ximr~9djt.wf8x", "00000000-0000-0000-2FDF-AF69A32814D4", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.458476123181 37.775623368764)", "644", "27211000", null, "ARGUELLO BLVD", "CABRILLO ST", "INTERSECTION SHARROW", "1", "JENWONG", 1501104616, "JENWONG", 1501104687, "10", "2016", "{4C127021-414D-4F88-9CDC-3DD682018D4C}", null, null ]
+, [ "row-x63t_3kez-fg7q", "00000000-0000-0000-6B4F-40562270CEDA", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.445889275544 37.77287061732)", "35", "26347000", null, "PANHANDLE PATH", "MASONIC AVE", "BIKE SIGNAL", "4", null, null, "JENWONG", 1513204470, null, "2008", "{5B1A60E7-15CC-4E23-BC15-E41CE537A844}", null, null ]
+, [ "row-edr2_tu9i.5e6a", "00000000-0000-0000-74B9-1E274D52ABDF", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.409400220047 37.777982032387)", "332", "24265000", null, "7TH ST", "HOWARD ST", "TWO-STAGE LEFT", "1", "JENWONG", 1495476464, "JENWONG", 1495476505, "4", "2017", "{38F4B915-B5A8-4980-BB2D-1FD6EE6B7DA3}", null, null ]
+, [ "row-ijvy-uqdz~hxwg", "00000000-0000-0000-50E3-11E005971B6D", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422378034304 37.769872641916)", "57", "24403000", "SE", "DUBOCE AVE", "VALENCIA ST", "BIKE BOX", "1", "JENWONG", 1442956018, "MTA", 1461969894, null, "2015", "{AE2AEBF6-FAC1-46A4-AF76-62D3A82687F1}", null, null ]
+, [ "row-n7zt_7yup_g6ay", "00000000-0000-0000-CA90-65A1B16DD11F", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.403448941354 37.805189849779)", "46", "34013000", null, "SANSOME ST", "THE EMBARCADERO", "INTERSECTION SHARROW", "1", "JENWONG", 1456870977, "MTA", 1461969894, null, "2015", "{5F82B1A4-486C-47EA-8610-86F73EB761A9}", null, null ]
+, [ "row-ucqb.ig2i.cced", "00000000-0000-0000-0A5B-77DE57C97307", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.406226576091 37.769467490599)", "54", "33614000", null, "9TH ST", "DIVISION ST", "INTERSECTION SHARROW", "4", "JENWONG", 1482429990, "JENWONG", 1482430111, "12", "2016", "{4C54A450-4B90-4B85-A053-70132A3886BD}", null, null ]
+, [ "row-wm3q.wxuw.9in4", "00000000-0000-0000-1F64-52AA7945308F", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.428670387295 37.767739778754)", "12", "25878000", null, "14TH ST", "MARKET ST", "INTERSECTION SHARROW", "2", null, null, "MTA", 1461969894, null, "2014", "{8B251107-0903-475B-9784-793794801ABD}", null, null ]
+, [ "row-6tr9~7tcf_jrnp", "00000000-0000-0000-CAB0-74AD184DEC79", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.412525470343 37.78048345714)", "52", "30742000", null, "MARKET ST", "7TH ST", "TWO-STAGE LEFT", "1", "JENWONG", 1439397241, "MTA", 1461969894, null, "2015", "{5EF3C828-C515-4809-98C3-D27135076971}", null, null ]
+, [ "row-fvbe_7iuv.d5wa", "00000000-0000-0000-E44A-DF84EDC325AF", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.428670387295 37.767739778754)", "5", "25878000", null, "14TH ST", "MARKET ST", "TWO-STAGE LEFT", "1", null, null, "MTA", 1461969894, null, "2014", "{FB949328-0B86-4F1C-9E53-790E9434F286}", null, null ]
+, [ "row-y6r9-9459_javh", "00000000-0000-0000-0FA7-60935DAEDFA8", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.414754436533 37.778724374107)", "19", "24429000", null, "MARKET ST", "8TH ST", "TWO-STAGE LEFT", "2", "JENWONG", 1480636436, "JENWONG", 1480638158, "6", "2016", "{B089AE72-1EC8-4134-87C1-CF0E459550C0}", null, null ]
+, [ "row-7iar.3zvi.q5zg", "00000000-0000-0000-DF5D-0AC8D851329A", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.43595354677 37.774281621129)", "1283", "26030000", null, "SCOTT ST", "FELL ST", "BIKE SIGNAL", "2", "JENWONG", 1513204367, "JENWONG", 1513204465, "7", "2016", "{21C77CC7-122B-40D5-837E-F93262FF1E54}", "0", "0" ]
+, [ "row-crbb~jnev_r8wi", "00000000-0000-0000-DA31-4AD86C55CA40", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.4131184556 37.76545255198)", "62", "24055000", null, "HARRISON ST", "TREAT AVE", "MIXING ZONE", "2", "JENWONG", 1462829025, "JENWONG", 1462830252, "3", "2016", "{EC38E964-1F8D-4A3B-A4CC-727CF0CFC795}", null, null ]
+, [ "row-afbg~bv62.zxcy", "00000000-0000-0000-A792-4BA2E031E9E7", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.418696814128 37.775591461157)", "44", "30747000", null, "MARKET ST", "11TH ST", "INTERSECTION SHARROW", "1", null, null, "MTA", 1461969894, null, "2011", "{656CD762-40F1-4DB7-BB7C-C19C5DD6C063}", null, null ]
+, [ "row-7bhf~534y~h7bt", "00000000-0000-0000-A17E-14B199119524", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.406226576091 37.769467490599)", "36", "33614000", null, "9TH ST", "DIVISION ST", "PROTECTED INTERSECTION", "1", "JENWONG", 1482430046, "JENWONG", 1482430112, "12", "2016", "{C3D421B5-C808-47BA-9472-8C9F29C6D915}", null, null ]
+, [ "row-kyvt.wzg5-c2ti", "00000000-0000-0000-D269-966663D2EF62", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.415590229257 37.769596104226)", "25", "24349000", null, "13TH ST", "FOLSOM ST", "TWO-STAGE LEFT", "2", "JENWONG", 1481845680, "JENWONG", 1495473458, "9", "2015", "{FD098BE4-DDC5-4401-8B78-1446FF3EBC30}", "5", "2017" ]
+, [ "row-ng4t~d46r~w3ew", "00000000-0000-0000-676F-BE3D4321FF29", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.415574613403 37.773105480038)", "29", "24353000", null, "11TH ST", "HOWARD ST", "TWO-STAGE LEFT", "1", null, null, "MTA", 1461969894, null, "2014", "{D3BB93E1-CCB6-4933-A432-90E189E2CCAF}", null, null ]
+, [ "row-b492-nubz-hnbu", "00000000-0000-0000-DA69-AADC9D29555B", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.423298773714 37.742299474655)", "969", "21890000", null, "SAN JOSE AVE", "30TH ST", "MIXING ZONE", "1", "JENWONG", 1503445869, "JENWONG", 1503445928, "8", "2017", "{49B46117-A563-4CC5-966E-06F703A0155D}", null, null ]
+, [ "row-uvmq~j293_b68t", "00000000-0000-0000-CFBC-442B39281DD0", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.422539568979 37.771599994452)", "55", "25853000", null, "MCCOPPIN ST", "VALENCIA ST", "TWO-STAGE LEFT", "1", null, null, "MTA", 1461969893, null, "2014", "{6A794D9F-85A9-4686-AC13-29D03CA82B64}", null, null ]
+, [ "row-zfbp-2sx3-nrb8", "00000000-0000-0000-11EC-CD442DFF6013", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.401986643279 37.80407719831)", "972", "24819000", null, "BATTERY ST", "THE EMBARCADERO", "INTERSECTION SHARROW", "1", "JENWONG", 1507912238, "JENWONG", 1507912408, "10", "2017", "{14C51D0E-0C65-4B45-9D5F-7D258DDBF7D8}", null, null ]
+, [ "row-wtik-azqx_7v3d", "00000000-0000-0000-22F9-6D5E3C8F3EF2", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.403890912588 37.7700678112)", "67", "23871000", null, "8TH ST", "TOWNSEND ST", "INTERSECTION SHARROW", "5", "JENWONG", 1450894291, "MTA", 1461969894, null, "2015", "{7F3CB7D9-E039-46CE-9B1B-A5CC35DD4DE1}", null, null ]
+, [ "row-fr5f_mw6t.u5zc", "00000000-0000-0000-5FF8-4D8769B20890", 0, 1513387642, null, 1513387642, null, "{ }", "POINT (-122.506730652266 37.735474692571)", "8", "32904000", "NE", "SLOAT ST", "GREAT HWY", "BIKE BOX", "1", "JENWONG", 1462838790, "JENWONG", 1462839112, null, "2015", "{CD70BEDB-252B-40AF-BDF4-BBFBF4FDC358}", null, null ]
+, [ "row-ixuc.3f8b_qj9z", "00000000-0000-0000-7338-2760D22E3843", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.424069749573 37.773880193135)", "16", "25909000", null, "PAGE ST", "OCTAVIA ST", "TWO-STAGE LEFT", "1", "JENWONG", 1455815433, "JENWONG", 1513624666, "2", "2016", "{AD331AF1-7364-4DA6-BC27-525DE52CDC2B}", null, null ]
+, [ "row-a7q9_22tp~qps6", "00000000-0000-0000-A4F2-D63FDDBBDCA8", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.410305241845 37.782235520694)", "1287", "24922000", null, "MARKET ST", "GOLDEN GATE AVE", "INTERSECTION SHARROW", "2", "JENWONG", 1513792625, "JENWONG", 1513792765, "6", "2016", "{0AA72E58-3469-4979-B9F5-7A40E634A54C}", null, null ]
+, [ "row-87nv_xgnf~ftdg", "00000000-0000-0000-AF82-2C4412D14C76", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.413161264093 37.780998727483)", "1616", "30045000", null, "MCALLISTER ST", "CHARLES J BRENHAM PL", "INTERSECTION SHARROW", "1", "JENWONG", 1514492266, "JENWONG", 1514492276, "4", "2017", "{818BD36F-6319-4418-A62F-84E6EE01D670}", null, null ]
+, [ "row-tccp_vj8b~6kt7", "00000000-0000-0000-56E2-67D7411B236B", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.424069749573 37.773880193135)", "4", "25909000", null, "PAGE ST", "OCTAVIA ST", "INTERSECTION SHARROW", "2", "JENWONG", 1455815382, "JENWONG", 1513624661, "2", "2016", "{A62E40AA-5C97-4EF6-9B61-4D39DB194F07}", null, null ]
+, [ "row-hex4-p5my-4n9b", "00000000-0000-0000-9D6B-7CF3A534E2F0", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.428670387295 37.767739778754)", "1613", "25878000", null, "14TH ST", "MARKET ST", "MIXING ZONE", "1", "JENWONG", 1514418030, "JENWONG", 1514418051, "11", "2016", "{BBCF8928-F228-4268-BFF3-0CCC6F20370C}", null, null ]
+, [ "row-ecbs.g4aq_fmnz", "00000000-0000-0000-6205-794F2605E28F", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.410944300976 37.769416135446)", "17", "24216000", null, "DIVISION ST", "11TH ST", "INTERSECTION SHARROW", "1", "JENWONG", 1481842063, "JENWONG", 1513894728, "9", "2015", "{BF5228D8-873E-4E2E-9F4B-FBC07902E804}", null, null ]
+, [ "row-enza.ncwx~2dae", "00000000-0000-0000-0B07-CB1120615A4A", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.424069749573 37.773880193135)", "38", "25909000", "W, E", "PAGE ST", "OCTAVIA ST", "BIKE BOX", "2", "JENWONG", 1455815315, "JENWONG", 1513624662, "2", "2016", "{AB0411AD-630D-4D6A-BA53-7BE22D42AD21}", null, null ]
+, [ "row-rs3i-bgq3~wqem", "00000000-0000-0000-A2B2-828383878DAA", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.410305241845 37.782235520694)", "1285", "24922000", null, "MARKET ST", "GOLDEN GATE AVE", "TWO-STAGE LEFT", "1", "JENWONG", 1513792557, "JENWONG", 1513792764, "6", "2016", "{6CE5CEE1-E6C0-49BA-9EA7-A70CABC73D51}", null, null ]
+, [ "row-zyeq_rdu9-677a", "00000000-0000-0000-4346-B4402E7561CF", 0, 1515693621, null, 1515693621, null, "{ }", "POINT (-122.407314287894 37.807385017158)", "1284", "25474000", null, "THE EMBARCADERO", "NORTH POINT ST", "INTERSECTION SHARROW", "2", "JENWONG", 1513204540, "JENWONG", 1514491781, "6", "2017", "{E7B9C01D-CFDF-464E-845B-2543AE9E1C67}", null, null ]
+, [ "row-cehm-cxan-irkt", "00000000-0000-0000-F76C-23AF5618BAFB", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.433087686694 37.764200655918)", "1605", "25804000", null, "MARKET ST", "16TH ST", "INTERSECTION SHARROW", "6", "JENWONG", 1514417640, "JENWONG", 1516217265, "11", "2016", "{7ECAB3A6-C64F-46BD-80C7-51E9C4AFD3C2}", null, null ]
+, [ "row-gska_fa7q~8m8c", "00000000-0000-0000-6601-E9C1FD47CFFD", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.435201178433 37.762675649157)", "1601", "25814000", null, "MARKET ST", "CASTRO ST", "INTERSECTION SHARROW", "1", "JENWONG", 1514417496, "JENWONG", 1516217292, "11", "2016", "{12C4780D-076F-4DB8-BD38-119ED40C5068}", null, null ]
+, [ "row-gya3-54da.gmj8", "00000000-0000-0000-8105-4D72409F62F6", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.430837610323 37.766018673446)", "1608", "25880000", null, "MARKET ST", "15TH ST", "BIKE BOX", "1", "JENWONG", 1514417804, "JENWONG", 1516217247, "11", "2016", "{B6EE9D55-FF62-418A-8E8E-0D96D71C9FCF}", null, null ]
+, [ "row-iueg_s8y9~w4d8", "00000000-0000-0000-92C1-811AB194F019", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.426871505951 37.769047332404)", "1614", "25865000", null, "MARKET ST", "DOLORES ST", "INTERSECTION SHARROW", "2", "JENWONG", 1514418104, "JENWONG", 1516217169, "11", "2016", "{AE7671A6-4113-4275-BDDD-D5FB7064F173}", null, null ]
+, [ "row-cegp.giir.nct4", "00000000-0000-0000-1700-6850289FFF8F", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.430837610323 37.766018673446)", "1611", "25880000", null, "MARKET ST", "15TH ST", "INTERSECTION SHARROW", "1", "JENWONG", 1514417932, "JENWONG", 1516217211, "11", "2016", "{30003F2E-3B65-41E8-874B-AED28A9E7989}", null, null ]
+, [ "row-sg67.6ynp.w5rj", "00000000-0000-0000-3720-003811605EF6", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.39076941168 37.766378837699)", "1921", "54354000", null, "4TH ST", "UNNAMED RD", "INTERSECTION SHARROW", "2", "JENWONG", 1516216837, "JENWONG", 1516217384, null, "2016", "{8FB6B3C5-AF9D-4CFA-879E-620398EA6D89}", null, null ]
+, [ "row-bt3r-fccr~q2dj", "00000000-0000-0000-098B-CFD9696789E0", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.431038687354 37.765872928982)", "1612", "25806000", null, "MARKET ST", "SANCHEZ ST", "INTERSECTION SHARROW", "1", "JENWONG", 1514417932, "JENWONG", 1516217196, "11", "2016", "{0C9D9CCB-B14E-4A91-8DC8-51CEF2F92705}", null, null ]
+, [ "row-wmwe.bw4p_ants", "00000000-0000-0000-BF89-A8F806B8F895", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.431038687354 37.765872928982)", "1607", "25806000", null, "MARKET ST", "SANCHEZ ST", "BIKE BOX", "1", "JENWONG", 1514417801, "JENWONG", 1516217235, "11", "2016", "{17B37D34-D164-4702-B345-9FC914EDD6C2}", null, null ]
+, [ "row-p2r9_hjby_gsd6", "00000000-0000-0000-9F34-47B12F5896FB", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.430837610323 37.766018673446)", "1609", "25880000", null, "MARKET ST", "15TH ST", "MIXING ZONE", "1", "JENWONG", 1514417899, "JENWONG", 1516217248, "11", "2016", "{70755031-996D-47A5-8527-2312CB770827}", null, null ]
+, [ "row-kju4-eiq3~r4k8", "00000000-0000-0000-1335-D8163832E59A", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.435201178433 37.762675649157)", "1602", "25814000", null, "MARKET ST", "CASTRO ST", "MIXING ZONE", "1", "JENWONG", 1514417553, "JENWONG", 1516217296, "11", "2016", "{808F5ECD-7FFC-4967-94B3-85FA1A3E63E7}", null, null ]
+, [ "row-xzy8_e6ff-j9z9", "00000000-0000-0000-422F-9BD0BD894424", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.433087686694 37.764200655918)", "1604", "25804000", null, "MARKET ST", "16TH ST", "BIKE BOX", "1", "JENWONG", 1514417618, "JENWONG", 1516217273, "11", "2016", "{E0B2BD8E-9EEE-4C89-957B-7EBFCC2949DB}", null, null ]
+, [ "row-fkts~f24i.cqx4", "00000000-0000-0000-0175-CD1E2E33D2AE", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.431038687354 37.765872928982)", "1610", "25806000", null, "MARKET ST", "SANCHEZ ST", "MIXING ZONE", "1", "JENWONG", 1514417899, "JENWONG", 1516217235, "11", "2016", "{F2BDC74A-4706-4CF8-9A5C-3130B000EF6D}", null, null ]
+, [ "row-mt4g.zszg.5zik", "00000000-0000-0000-FBE7-DCA15CA0C25E", 0, 1516833442, null, 1516833442, null, "{ }", "POINT (-122.433087686694 37.764200655918)", "1603", "25804000", null, "MARKET ST", "16TH ST", "MIXING ZONE", "1", "JENWONG", 1514417595, "JENWONG", 1516217273, "11", "2016", "{6B2AB70E-93A1-4541-982F-162DE023D9D1}", null, null ]
+, [ "row-g63a.7miu~qx4f", "00000000-0000-0000-BDB3-C20D54464F0A", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.407855274156 37.77675105422)", "333", "24262000", null, "7TH ST", "FOLSOM ST", "TWO-STAGE LEFT", "1", "JENWONG", 1495476531, "JENWONG", 1521481958, "4", "2017", "{B39F51D1-9206-4FCC-AD76-AF1DEAE32269}", "1", "2018" ]
+, [ "row-zc74.e446~m9zh", "00000000-0000-0000-D7B8-14EA307938BD", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.404444464944 37.779445280435)", "2250", "23936000", null, "FALMOUTH ST", "FOLSOM ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521482931, "JENWONG", 1521482986, "1", "2018", "{ED3A0F77-FE77-4F4E-B36D-E56681D01E54}", null, null ]
+, [ "row-cf6i~2zfr-xf8w", "00000000-0000-0000-54B4-603E6F840F3F", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.408393326758 37.776323332082)", "2247", "24274000", null, "FOLSOM ST", "LANGTON ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521481694, "JENWONG", 1521481747, "1", "2018", "{53BE2597-6FBA-4A8F-9307-D4BA6E3CD87A}", null, null ]
+, [ "row-55h3-wejx.ae38", "00000000-0000-0000-EAE3-B1164AD0EFFE", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.408858963655 37.775958174419)", "2246", "24275000", null, "FOLSOM ST", "HALLAM ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521481665, "JENWONG", 1521481813, "1", "2018", "{31D6C193-198F-4697-BB37-00E3EB939483}", null, null ]
+, [ "row-hw37-adjk~gf2e", "00000000-0000-0000-909A-17D4D6A1D7A1", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.412238220073 37.773289725601)", "2244", "24234000", null, "DORE ST", "FOLSOM ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521481171, "JENWONG", 1521481210, "1", "2018", "{A60BA5F6-81F7-420E-A418-78F11D47444D}", null, null ]
+, [ "row-4j5a_vswk~zqmj", "00000000-0000-0000-5893-DE4BB01D1D00", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.413432832645 37.772347493933)", "2242", "24244000", null, "FOLSOM ST", "JUNIPER ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521480741, "JENWONG", 1521481037, "1", "2018", "{1771D05B-ECB7-48B3-BBCB-556754CA84EF}", null, null ]
+, [ "row-ag95~s2cq~vy5r", "00000000-0000-0000-9374-6E639B077468", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.410075993465 37.774996684737)", "24", "24272000", null, "8TH ST", "FOLSOM ST", "TWO-STAGE LEFT", "1", null, null, "JENWONG", 1521481429, null, "2014", "{CD29FC37-D33D-4EBE-BB2B-2417065D12CD}", "1", "2018" ]
+, [ "row-4gfs-khg3~gijs", "00000000-0000-0000-AE8E-F750A7C442B2", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.409494701315 37.775455950438)", "2245", "24269000", null, "FOLSOM ST", "RODGERS ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521481630, "JENWONG", 1521481755, "1", "2018", "{C1C415F2-CF5C-4D84-828B-8D7F15215096}", null, null ]
+, [ "row-miat_x8qm-6n4d", "00000000-0000-0000-A8CF-763F8F454224", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.407027965109 37.777404578384)", "2249", "24264000", null, "FOLSOM ST", "SHERMAN ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521482319, "JENWONG", 1521482358, "1", "2018", "{B0F60A89-29D5-4BD2-83CC-47344EB96F93}", null, null ]
+, [ "row-yx5a~8ikg-i4iv", "00000000-0000-0000-E09C-38C1C1FA0E10", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.412837440025 37.772817104151)", "2243", "24233000", null, "10TH ST", "FOLSOM ST", "MIXING ZONE", "1", "JENWONG", 1521481010, "JENWONG", 1521481051, "1", "2018", "{F766A7DB-3F3E-44BC-8040-79C934DB151B}", null, null ]
+, [ "row-4sfq-zt73_6k6z", "00000000-0000-0000-FE08-E9D840F5E2A1", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.414039920818 37.771868651218)", "2241", "24238000", null, "11TH ST", "FOLSOM ST", "TWO-STAGE LEFT", "3", "JENWONG", 1521479912, "JENWONG", 1521480725, "1", "2018", "{A9D986D5-6FFF-436C-A97D-50948063B4B2}", null, null ]
+, [ "row-bhah_94rj_57t4", "00000000-0000-0000-031C-63960018E6FC", 0, 1521552529, null, 1521552529, null, "{ }", "POINT (-122.406449549312 37.777861483823)", "2248", "23926000", null, "COLUMBIA SQUARE ST", "FOLSOM ST", "INTERSECTION SHARROW", "1", "JENWONG", 1521482204, "JENWONG", 1521482956, "1", "2018", "{D4C77B7E-1D4F-4F38-AB99-6AD7F6839F6F}", null, null ]
+, [ "row-ygit_ggcc-5ref", "00000000-0000-0000-FE5E-BCCB5316B8BF", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.422632914862 37.77250770905)", "2256", "30755000", null, "MARKET ST", "VALENCIA ST", "JUGHANDLE", "1", "JENWONG", 1524677608, "JENWONG", 1524677636, null, "2012", "{87B2440E-0CE8-4098-B60D-C6CA4F064072}", null, null ]
+, [ "row-46ts-v853_4kze", "00000000-0000-0000-A403-27501BF046C5", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.424865814696 37.770752689324)", "2562", "30757000", null, "MARKET ST", "GUERRERO ST", "INTERSECTION SHARROW", "3", "JENWONG", 1524686091, "JENWONG", 1524686158, "4", "2018", "{5F9C2498-C5D1-42ED-A8CC-F23ABFB5B594}", null, null ]
+, [ "row-zr3q~8et9_rw4p", "00000000-0000-0000-CFDE-DC6DB8F6664D", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.423409985193 37.771890535111)", "2564", "30756000", null, "MARKET ST", "OCTAVIA BLVD", "BIKE BOX", "1", "JENWONG", 1524686471, "JENWONG", 1524686507, "4", "2018", "{4F4F9A6D-EB88-499F-82BF-B62AF07CB287}", null, null ]
+, [ "row-h343-f4e2~pkhf", "00000000-0000-0000-CB7D-1327D4E87C58", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.415707087482 37.782589978301)", "2253", "24933000", null, "TURK ST", "HYDE ST", "BIKE BOX", "1", "JENWONG", 1524588490, "JENWONG", 1524588524, "4", "2018", "{8BDDFEF5-90E2-4579-AA9A-05A0BB0E0744}", null, null ]
+, [ "row-v732.zmaz_k94c", "00000000-0000-0000-715F-8CC9B4F83218", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.423409985193 37.771890535111)", "51", "30756000", null, "MARKET ST", "OCTAVIA BLVD", "INTERSECTION SHARROW", "3", null, null, "JENWONG", 1524677659, null, "2013", "{BD53FA46-5B07-4572-8DBF-AE78BB410B07}", null, null ]
+, [ "row-cejs.3mng_9gxa", "00000000-0000-0000-CFAB-C15342269ADA", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.423632738747 37.771721905964)", "2561", "35006000", null, "MARKET ST", "OCTAVIA BLVD", "INTERSECTION SHARROW", "1", "JENWONG", 1524677692, "JENWONG", 1524677928, null, "2013", "{6F48AB77-3FA7-4561-B29A-DFD0257C4402}", null, null ]
+, [ "row-7c77_mpwz.kr9t", "00000000-0000-0000-ABEA-0C6D85837889", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.419006488636 37.782174215355)", "2254", "25175000", null, "TURK ST", "POLK ST", "BIKE BOX", "2", "JENWONG", 1524588562, "JENWONG", 1524588590, "4", "2018", "{A3FFB80C-A6E6-4CDB-9115-CD7BBF4F15FB}", null, null ]
+, [ "row-yywz-48sw_x6nt", "00000000-0000-0000-88C8-2F720F74659B", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.424865814696 37.770752689324)", "2563", "30757000", null, "MARKET ST", "GUERRERO ST", "BIKE BOX", "1", "JENWONG", 1524686169, "JENWONG", 1524686201, "4", "2018", "{FC1B3D52-28E4-47E2-B1FD-7787FA2EB317}", null, null ]
+, [ "row-vawm-2y8s~gbxj", "00000000-0000-0000-70FD-1FB106FEDAB9", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.414039920818 37.771868651218)", "2251", "24238000", null, "11TH ST", "FOLSOM ST", "MIXING ZONE", "1", "JENWONG", 1524084292, "JENWONG", 1524084336, "3", "2018", "{2FF1135A-D512-4273-B232-D1A9F4BDC1EF}", null, null ]
+, [ "row-mpcy.n2qc-ftjh", "00000000-0000-0000-0127-65B6CBBFDD0B", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.410075993465 37.774996684737)", "2255", "24272000", null, "8TH ST", "FOLSOM ST", "BIKE SIGNAL", "2", "JENWONG", 1524589087, "JENWONG", 1524589159, "4", "2018", "{571E2467-39BC-41F0-8821-CB2414711CD5}", null, null ]
+, [ "row-22ye.s88u_3jx2", "00000000-0000-0000-5843-56D4C7BAF558", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.405437947258 37.771301297692)", "2881", "23872000", null, "8TH ST", "BRANNAN ST", "TWO-STAGE LEFT", "1", "JENWONG", 1525798286, "JENWONG", 1525798730, "5", "2018", "{EF1C35B3-3D72-4869-8B7A-84B1BA742E43}", null, null ]
+, [ "row-qc29~uwfk~va4f", "00000000-0000-0000-63F8-C3BB6FCAD12E", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.42632266313 37.769607488123)", "58", "30758000", "NE", "DUBOCE AVE", "MARKET ST", "BIKE BOX", "2", null, null, "JENWONG", 1524685912, null, "2014", "{0317AD82-BF66-4C36-A3DD-17E51C6D1B25}", "4", "2018" ]
+, [ "row-cf35.jtcw~xs4z", "00000000-0000-0000-5792-FE3545D6856D", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.405437947258 37.771301297692)", "2882", "23872000", null, "8TH ST", "BRANNAN ST", "BIKE SIGNAL", "2", "JENWONG", 1525798334, "JENWONG", 1525798732, "4", "2018", "{95AB9E30-9ABE-4400-933E-09353F61C380}", null, null ]
+, [ "row-hy58~f8gn.2muw", "00000000-0000-0000-4D62-A5CA0470C25A", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.42632266313 37.769607488123)", "1615", "30758000", null, "MARKET ST", "DUBOCE AVE", "INTERSECTION SHARROW", "8", "JENWONG", 1514418187, "JENWONG", 1524685951, "11", "2016", "{320FC28A-0D81-4F8C-9B45-E0625DDAF4A8}", null, null ]
+, [ "row-s82w-ausg-h6db", "00000000-0000-0000-9F1D-BB4ECE62C510", 0, 1526774526, null, 1526774526, null, "{ }", "POINT (-122.412424961594 37.783009023913)", "2252", "24923000", null, "TURK ST", "JONES ST", "BIKE BOX", "1", "JENWONG", 1524588387, "JENWONG", 1524588463, "4", "2018", "{3A873EFD-164A-4D99-8CC5-FA8C67A25EFC}", null, null ]
+ ]
+}
